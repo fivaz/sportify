@@ -1,0 +1,1382 @@
+1;BERNEX;Zone sportive du Signal;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+2;BERNEX;TC Bernex;court;Courts de tennis;court;2;extérieur
+3;BERNEX;TC Bernex;court;Courts de tennis;court;6;extérieur
+4;BERNEX;TC Bernex;court;Mini court de tennis;terrain;1;extérieur
+5;BERNEX;Stand cantonal de tir;stand;Stand de tir;stand;1;extérieur
+6;BERNEX;Stand de tir à l'arc;stand;Stand de tir à l'arc;stand;1;extérieur
+7;BERNEX;Ranch des Trois-Chênes;Manège;Ranch des Trois-Chênes;Manège;1;extérieur
+8;CAROUGE;Piscine de la Fontenette;Piscine;Piscine;piscine;1;extérieur
+9;CAROUGE;Piscine de la Fontenette;Piscine;Tables de ping pong;terrain;6;extérieur
+10;CAROUGE;Tir au canon de Carouge;stand;Tir au canon;terrain;1;extérieur
+11;CAROUGE;Ecole du Val-d'Arve;zone de sport;Salle de gymnastique;salle;1;intérieur
+12;CAROUGE;Ecole du Val-d'Arve;zone de sport;Salle de rythmique;salle;1;intérieur
+13;CAROUGE;Ecole du Val-d'Arve;zone de sport;Mini terrain de foot;terrain;1;extérieur
+14;CAROUGE;Ecole du Val-d'Arve;zone de sport;Tables de ping pong;terrain;2;extérieur
+15;CAROUGE;Parcours Vita de Pinchat;parcours sportif;Parcours Vita de Pinchat;promenades;1;intérieur
+16;CAROUGE;Ecole de la Tambourine;zone de sport;Salle de gymnastique;salle;1;intérieur
+17;CAROUGE;Ecole de la Tambourine;zone de sport;Salle de rythmique;salle;1;intérieur
+18;CAROUGE;Ecole de la Tambourine;zone de sport;Terrain multisport clôturé;terrain;1;extérieur
+19;CAROUGE;Ecole de la Tambourine;zone de sport;Terrain extérieur;terrain;1;extérieur
+20;CAROUGE;Patinoire saisonnière de la place de Sardaigne;Patinoire;Patinoire;patinoire;1;extérieur
+21;CAROUGE;CO de Drize;zone de sport;Salles de gymnastique;salle;3;intérieur
+22;CAROUGE;CO de Drize;zone de sport;Terrains de basket;terrain;2;extérieur
+23;CAROUGE;CO de Drize;zone de sport;Pistes extérieures;terrain;1;extérieur
+24;CAROUGE;CO de Drize;zone de sport;Terrain de volley;terrain;1;extérieur
+25;CAROUGE;Salles de boxe;salle;Salle de boxe 1;salle;1;intérieur
+26;CAROUGE;Salles de boxe;salle;Salle de boxe 2;salle;1;intérieur
+27;CAROUGE;Salle de tennis de table;salle;Salle de tennis de table;salle;1;intérieur
+28;CAROUGE;Parc des Tours-Avia;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+29;CAROUGE;Parc des Tours-Avia;zone de sport;Beachvolley;terrain;1;extérieur
+30;CAROUGE;Parc des Tours-Avia;zone de sport;Tables de ping pong;terrain;2;extérieur
+31;AIRE-LA-VILLE;Zone de sport d'Aire-la-Ville;zone de sport;Court de tennis;court;1;extérieur
+32;AIRE-LA-VILLE;Zone de sport d'Aire-la-Ville;zone de sport;Terrain de football;terrain;1;extérieur
+33;AIRE-LA-VILLE;Zone de sport d'Aire-la-Ville;zone de sport;Mini court de tennis;court;1;extérieur
+34;AIRE-LA-VILLE;Zone de sport d'Aire-la-Ville;zone de sport;Patinoire de hockey inline;terrain;1;extérieur
+35;AIRE-LA-VILLE;Zone de sport d'Aire-la-Ville;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+36;AIRE-LA-VILLE;Zone de sport d'Aire-la-Ville;zone de sport;Boulodrome;terrain;1;extérieur
+37;AIRE-LA-VILLE;Salle polyvalente;centre sportif;Salle polyvalente;salle;1;intérieur
+38;AIRE-LA-VILLE;Ecole d'Aire-la-Ville;salle;Salle de rythmique;salle;1;intérieur
+39;AIRE-LA-VILLE;Ecole d'Aire-la-Ville;salle;Terrain de basketball;terrain;1;extérieur
+40;ANIERES;Port d'Anières;port et plage;Port;aquatique;1;extérieur
+41;ANIERES;Port d'Anières;port et plage;Espace de baignade;aquatique;1;extérieur
+42;ANIERES;Zone de sport d'Anières;zone de sport;patinoire du tennis;patinoire;1;extérieur
+43;ANIERES;Zone de sport d'Anières;zone de sport;Salle polyvalente;salle;1;intérieur
+44;ANIERES;Zone de sport d'Anières;zone de sport;Terrain de football;terrain;1;extérieur
+45;ANIERES;Zone de sport d'Anières;zone de sport;Terrains de pétanque;terrain;5;extérieur
+46;ANIERES;Zone de sport d'Anières;zone de sport;Installation d'athlétisme;terrain;1;extérieur
+47;ANIERES;Plage d'Anières;plage;Plage;aquatique;1;extérieur
+48;ANIERES;Ecole d'Anières;terrain;Salle de rythmique;terrain;1;intérieur
+49;ANIERES;Terrains de pétanque intérieurs;salle;Boulodrome;salle;4;intérieur
+50;ANIERES;TC Anières;court;Courts de tennis;court;3;extérieur
+51;ANIERES;TC Anières;court;Mur d'entraînement;court;1;extérieur
+52;AVULLY;Ecole d'Avully;zone de sport;Piscine d'Avully;piscine;1;intérieur
+53;AVULLY;Ecole d'Avully;zone de sport;Salle polyvalente;salle;1;intérieur
+54;AVULLY;Ecole d'Avully;zone de sport;Salle de rythmique;salle;1;intérieur
+55;AVULLY;Ecole d'Avully;zone de sport;Terrain de basketball;terrain;1;extérieur
+56;AVULLY;Salle de l'ancienne école de Gennecy;salle;Salle;salle;1;intérieur
+57;AVULLY;Zone de sport de Gennecy;zone de sport;Skatepark;terrain;1;extérieur
+58;AVULLY;Zone de sport de Gennecy;zone de sport;Terrain de football;terrain;1;extérieur
+59;AVULLY;Zone de sport de Gennecy;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+60;AVULLY;Terrain de tir à l'arc;terrain;Stand de tir à l'arc;stand;1;extérieur
+61;AVULLY;Manège d'Avully - Le Courtil;Manège;Manège d'Avully - Le Courtil;Manège;1;extérieur
+62;AVULLY;TC Avully;zone de sport;Courts de tennis;court;3;extérieur
+63;AVULLY;TC Avully;zone de sport;Boulodrome;terrain;2;extérieur
+64;AVUSY;Manège d'Avusy;Manège;Manège d'Avusy;Manège;1;extérieur et intérieur
+65;AVUSY;Centre communal d'Avusy;zone de sport;Terrain de rugby;terrain;1;extérieur
+66;AVUSY;Centre communal d'Avusy;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+67;AVUSY;Centre communal d'Avusy;zone de sport;Terrain de volleyball;salle;1;extérieur
+68;AVUSY;Centre communal d'Avusy;zone de sport;Skate-park;terrain;1;extérieur
+69;AVUSY;Centre communal d'Avusy;zone de sport;Boulodrome;terrain;10;extérieur
+70;AVUSY;Ecole d'Avusy;salle;Terrain de basketball et football;terrain;1;extérieur
+71;AVUSY;Ecole d'Avusy;salle;Terrain de football;terrain;1;extérieur
+72;AVUSY;Ecole d'Avusy;salle;Salle de gymnastique - Salle des fêtes;salle;1;intérieur
+73;AVUSY;Ecole d'Avusy;salle;Salle de rythmique;salle;1;intérieur
+74;AVUSY;Salle communale de Sézegnin;terrain;Boulodrome;terrain;2;extérieur
+75;BARDONNEX;Manège d'Evordes;Manège;Manège d'Evordes;Manège;1;extérieur et intérieur
+76;BARDONNEX;Stand de tir;stand;Stand de tir;stand;1;intérieur
+77;BARDONNEX;Salle communale de Bardonnex;salle;Salle de gymnastique;salle;1;intérieur
+78;BARDONNEX;Salle communale de Bardonnex;salle;Salle de judo;salle;1;intérieur
+79;BARDONNEX;Stade de Compesières;stade;Terrain de football C Hospitaliers;terrain;1;extérieur
+80;BARDONNEX;Stade de Compesières;stade;Terrain de football B;terrain;1;extérieur
+81;BARDONNEX;Stade de Compesières;stade;Terrain de football A;terrain;1;extérieur
+82;BARDONNEX;Zone de sport de Compesières;terrain;Terrain multisports clôturé;terrain;1;extérieur
+83;BARDONNEX;Zone de sport de Compesières;terrain;Skate-park;terrain;1;extérieur
+84;BARDONNEX;Ecole de Compesières;salle;Salle de rythmique;salle;1;intérieur
+85;BARDONNEX;Ecole de Compesières;salle;Terrain de basketball;terrain;1;extérieur
+86;BELLEVUE;Ecole de Bellevue;zone de sport;Salle de gymnastique;salle;1;intérieur
+87;BELLEVUE;Ecole de Bellevue;zone de sport;Salle de rythmique;salle;1;intérieur
+88;BELLEVUE;Ecole de Bellevue;zone de sport;Terrain de basket;terrain;1;extérieur
+89;BELLEVUE;Ecole de Bellevue;zone de sport;Terrain de football;terrain;1;extérieur
+90;BELLEVUE;Ecole de Bellevue;zone de sport;Table de ping-pong;terrain;2;extérieur
+91;BELLEVUE;Ecole de Bellevue;zone de sport;Boulodrome;terrain;5;extérieur
+92;BELLEVUE;Salle de judo;salle;Salle de judo;salle;1;intérieur
+93;BELLEVUE;Stand de tir à l'arbalète;stand;Stand de tir à l'arbalète;stand;1;extérieur et intérieur
+94;BELLEVUE;Country Club Geneva;centre sportif;Piscine country club;piscine;1;intérieur
+95;BELLEVUE;Country Club Geneva;centre sportif;Courts de tennis;court;5;intérieur
+96;BELLEVUE;Country Club Geneva;centre sportif;Terrain de golf (practice);terrain;2;extérieur
+97;BELLEVUE;Country Club Geneva;centre sportif;Court de badminton;court;1;intérieur
+98;BELLEVUE;Country Club Geneva;centre sportif;Court de padel;court;3;intérieur
+99;BELLEVUE;Country Club Geneva;centre sportif;Courts de tennis;court;3;extérieur
+100;BELLEVUE;Country Club Geneva;centre sportif;Courts de tennis;court;5;intérieur
+101;BELLEVUE;Country Club Geneva;centre sportif;Terrain de squash;court;2;intérieur
+102;BELLEVUE;Country Club Geneva;centre sportif;Salle de fitness;salle;1;intérieur
+103;BELLEVUE;Country Club Geneva;centre sportif;Salle de musculation;salle;1;intérieur
+104;BELLEVUE;Port Gitana;port et plage;Port;aquatique;1;extérieur
+105;BELLEVUE;Port Gitana;port et plage;Plage;aquatique;1;extérieur
+106;BELLEVUE;Port Gitana;port et plage;Tables de ping-pong;terrain;2;extérieur
+107;BELLEVUE;Port Saladin;port;Port;aquatique;1;extérieur
+108;BELLEVUE;Espace Santé;salle;Fitness Santé;salle;2;intérieur
+109;BELLEVUE;Espace Santé;salle;Salle de musculation;salle;1;intérieur
+110;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Patinoire;patinoire;1;extérieur
+111;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Parcours Vita;promenades;1;extérieur
+112;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Terrain multi-sports;terrain;1;extérieur
+113;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Beach Volley;terrain;1;extérieur
+114;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Table de ping-pong;terrain;2;extérieur
+115;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Boulodrome;terrain;4;intérieur
+116;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Fitness urbain;terrain;1;extérieur
+117;BELLEVUE;Centre sportif de la Vigne-Blanche;centre sportif;Street workout;terrain;1;extérieur
+118;BERNEX;Refuge de Darwyn;Manège;Centre de relation homme-animal;Manège;1;modulable
+119;BERNEX;Parcours agricole;randonnée;Parcours agricole;promenades;1;extérieur
+120;BERNEX;Parcours viticole;randonnée;Parcours viticole;promenades;1;extérieur
+121;BERNEX;Parcours équestre;parcours équestre;Parcours équestre;promenades;1;extérieur
+122;BERNEX;Sentier Découverte;randonnée;Sentier Découverte;promenades;1;extérieur
+123;BERNEX;Salle omnisports de Vailly;salle;Salle omnisports;salle;1;intérieur
+124;BERNEX;Salle omnisports de Vailly;salle;Terrain de basketball;terrain;1;extérieur
+125;BERNEX;Salle omnisports de Vailly;salle;Terrain de football;terrain;2;extérieur
+126;BERNEX;Ranch Blackyland;Manège;Manège;Manège;1;extérieur
+127;BERNEX;Ecole Robert-Hainard;zone de sport;Piscine Robert-Hainard;piscine;1;intérieur
+128;BERNEX;Ecole Robert-Hainard;zone de sport;Salle de gymnastique;salle;1;intérieur
+129;BERNEX;Ecole Robert-Hainard;zone de sport;Salle de judo;salle;1;intérieur
+130;BERNEX;Ecole Robert-Hainard;zone de sport;Salle de rythmique;salle;1;intérieur
+131;BERNEX;Ecole Robert-Hainard;zone de sport;Salles de tennis de table;salle;3;intérieur
+132;BERNEX;Ecole de Luchepelet;salle;Installations d'athlétisme;terrain;1;extérieur
+133;BERNEX;Ecole de Luchepelet;salle;Terrain de basketball;terrain;1;extérieur
+134;BERNEX;Ecole de Luchepelet;salle;Terrain de football;terrain;1;extérieur
+135;BERNEX;Ecole de Luchepelet;salle;Salle de rythmique 1;salle;1;intérieur
+136;BERNEX;Ecole de Luchepelet;salle;Salle de rythmique 2;salle;1;intérieur
+137;BERNEX;Ecole de Luchepelet;salle;Salle de gymnastique;salle;1;intérieur
+138;BERNEX;Ecole de Lully;salle;Installations d'athlétisme;terrain;1;extérieur
+139;BERNEX;Ecole de Lully;salle;Terrain de basketball;terrain;1;extérieur
+140;BERNEX;Ecole de Lully;salle;Terrain de football;terrain;1;extérieur
+141;BERNEX;Ecole de Lully;salle;Salle de rythmique;salle;2;intérieur
+142;BERNEX;Ecole de Lully;salle;Salle de gymnastique;salle;1;intérieur
+143;BERNEX;Zone sportive du Signal;zone de sport;Patinoire de Bernex;patinoire;1;extérieur
+144;BERNEX;Zone sportive du Signal;zone de sport;Terrain de football A;terrain;1;extérieur
+145;BERNEX;Zone sportive du Signal;zone de sport;Terrain de football B;terrain;1;extérieur
+146;BERNEX;Zone sportive du Signal;zone de sport;Terrain de football C;terrain;1;extérieur
+147;BERNEX;Zone sportive du Signal;zone de sport;Terrain de football D;terrain;1;extérieur
+148;BERNEX;Zone sportive du Signal;zone de sport;Boulodrome;terrain;9;extérieur
+149;CHENE-BOUGERIES;ECG Jean-Piaget;zone de sport;Salle de gymnastique (009);salle;1;intérieur
+150;CHENE-BOUGERIES;ECG Jean-Piaget;zone de sport;Salle de gymnastique (003);salle;1;intérieur
+151;CHENE-BOUGERIES;ECG Jean-Piaget;zone de sport;Salle de gymnastique (005);salle;1;intérieur
+152;CHENE-BOUGERIES;ECG Jean-Piaget;zone de sport;Salle de musculation;salle;1;intérieur
+153;CHENE-BOUGERIES;CO de la Gradelle;zone de sport;Salles de gymnastique;salle;3;intérieur
+154;CHENE-BOUGERIES;CO de la Gradelle;zone de sport;Terrains polyvalents;terrain;1;extérieur
+155;CHENE-BOUGERIES;CO de la Gradelle;zone de sport;Athlétisme;terrain;1;extérieur
+156;CHENE-BOUGERIES;MSC Country Club;club;Piscine;piscine;1;extérieur
+157;CHENE-BOUGERIES;MSC Country Club;club;Courts de tennis;court;3;extérieur
+158;CHENE-BOUGERIES;MSC Country Club;club;Mini-golf;terrain;1;extérieur
+159;CHENE-BOUGERIES;MSC Country Club;club;Terrains de pétanque;terrain;2;extérieur
+160;CHENE-BOUGERIES;MSC Country Club;club;Mini terrain de foot;terrain;1;extérieur
+161;CHENE-BOURG;Ecole De Haller;zone de sport;Salle de gymnastique;salle;1;intérieur
+162;CHENE-BOURG;Ecole De Haller;zone de sport;Terrain de football;terrain;1;extérieur
+163;CHENE-BOURG;Ecole De Haller;zone de sport;Salle de rythmique;salle;1;intérieur
+164;CHENE-BOURG;Ecole du Petit-Senn;zone de sport;Salle de rythmique;salle;1;intérieur
+165;CHENE-BOURG;Ecole du Petit-Senn;zone de sport;Terrain de football;terrain;1;extérieur
+166;CHENE-BOURG;Ecole du Petit-Senn;zone de sport;Salle de gymnastique;salle;1;intérieur
+167;CHENE-BOURG;Ecole du Petit-Senn;zone de sport;Terrain de volley-ball;terrain;1;extérieur
+168;CHENE-BOURG;Tennis club des Services Industriels;court;Terrain de pétanque;terrain;1;extérieur
+169;CHENE-BOURG;Tennis club des Services Industriels;court;Courts de tennis;court;4;extérieur
+170;CHENE-BOURG;CO de la Seymaz (Collège de Candolle);zone de sport;Pistes extérieures;terrain;1;extérieur
+171;CHENE-BOURG;CO de la Seymaz (Collège de Candolle);zone de sport;Tables de ping-pong;terrain;3;extérieur
+172;CHENE-BOURG;CO de la Seymaz (Collège de Candolle);zone de sport;Terrain de volley;terrain;1;extérieur
+173;CHENE-BOURG;CO de la Seymaz (Collège de Candolle);zone de sport;Salles de gymnastique;salle;3;intérieur
+174;CHENE-BOURG;CO de la Seymaz (Collège de Candolle);zone de sport;Terrains de basket;terrain;2;extérieur
+175;CHENE-BOURG;Stade de Belle-Idée;centre sportif;Terrain de football;terrain;1;extérieur
+176;CHENE-BOURG;Ecole Floraire;zone de sport;Salle de danse;salle;1;intérieur
+177;CHENE-BOURG;Ecole Place-Favre;zone de sport;Salle de réunion;salle;1;intérieur
+178;CONFIGNON;Ecole de Confignon;zone de sport;Salle de gymnastique;salle;1;intérieur
+179;CONFIGNON;Ecole de Confignon;zone de sport;Salle de rythmique;salle;1;intérieur
+180;CONFIGNON;Ecole de Confignon;zone de sport;Terrain de basketball;terrain;1;extérieur
+181;CONFIGNON;Ecole de Confignon;zone de sport;Terrain de football;terrain;1;extérieur
+182;CONFIGNON;Ecole de Confignon;zone de sport;Courts de tennis;court;2;extérieur
+183;CONFIGNON;Ecole de Confignon;zone de sport;Installation d'athlétisme;terrain;1;extérieur
+184;CONFIGNON;CO Vuillonnex;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+185;CONFIGNON;CO Vuillonnex;zone de sport;Salle de gymnastique;salle;3;intérieur
+186;CONFIGNON;CO Vuillonnex;zone de sport;Terrains de basketball;terrain;2;extérieur
+187;CONFIGNON;TC Confignon;court;Courts de tennis;court;3;extérieur
+188;CONFIGNON;Ecole de Cressy;zone de sport;Salle de rythmique;salle;1;intérieur
+189;CONFIGNON;Ecole de Cressy;zone de sport;Mini terrain de foot;terrain;1;extérieur
+190;CONFIGNON;Ecole de Cressy;zone de sport;Salle de gymnastique;salle;1;intérieur
+191;CORSIER;Corsier Port;port;Port;aquatique;1;extérieur
+192;CORSIER;Corsier Port;port;Epuisoir planche à voiles;aquatique;1;extérieur
+193;CORSIER;Manège de Corsier;Manège;Manège de Corsier;Manège;1;extérieur et intérieur
+194;CORSIER;Ecole de Corsier (primaire);zone de sport;Salle de gymnastique;salle;1;intérieur
+195;CORSIER;Ecole de Corsier (primaire);zone de sport;Terrain de basket;terrain;1;extérieur
+196;CORSIER;Ecole de Corsier (primaire);zone de sport;Terrain de football;terrain;1;extérieur
+197;CORSIER;Ecole de Corsier (primaire);zone de sport;Mini terrain de football;terrain;1;extérieur
+198;CORSIER;Ecole de Corsier (primaire);zone de sport;Installations d'athlétisme;terrain;1;extérieur
+199;CORSIER;Boulodrome de Corsier;terrain;Terrains extérieurs;terrain;8;extérieur
+200;CORSIER;Boulodrome de Corsier;terrain;Terrains couverts;terrain;5;intérieur
+201;CORSIER;TC Corsier;court;Court de tennis;court;1;extérieur
+202;CORSIER;TC Corsier;court;Mur d'entraînement;court;1;extérieur
+203;CORSIER;TC Corsier;court;Courts de tennis;court;3;extérieur
+204;CORSIER;TC Corsier;court;Court de tennis;court;1;extérieur
+205;CORSIER;Ecole de Corsier (élémentaire);zone de sport;Mini terrain de foot;terrain;1;extérieur
+206;DARDAGNY;Centre sportif de Dardagny;salle;Salle polyvalente;salle;1;intérieur
+207;DARDAGNY;Centre sportif de Dardagny;salle;Local de judo;salle;1;intérieur
+208;CHENE-BOURG;Parc intergénérationnel de l'Ancienne Mairie;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+209;CHENE-BOURG;Parc intergénérationnel de l'Ancienne Mairie;zone de sport;Fitness urbain;terrain;1;extérieur
+210;CHENE-BOURG;Parc Mirany;terrain;Terrain multisports clôturé;terrain;1;extérieur
+211;CHENE-BOURG;Parc Mirany;terrain;Mini terrain de football;terrain;1;extérieur
+212;CHENE-BOURG;Parc Mirany;terrain;Boulodrome;terrain;2;extérieur
+213;CHOULEX;Salle de gymnastique de Choulex;salle;Salle de gymnastique;salle;1;intérieur
+214;CHOULEX;Salle de gymnastique de Choulex;salle;Salle de rythmique;salle;1;intérieur
+215;CHOULEX;Zone multisport de Chambet;terrain;Terrain de football 1;terrain;1;extérieur
+216;CHOULEX;Zone multisport de Chambet;terrain;Terrain de football 2;terrain;1;extérieur
+217;CHOULEX;Zone multisport de Chambet;terrain;Court de tennis;court;1;extérieur
+218;CHOULEX;Zone multisport de Chambet;terrain;Terrains de pétanque;terrain;3;couvert
+219;CHOULEX;Terrain de pétanque;terrain;Terrain de pétanque;terrain;1;intérieur
+220;CHOULEX;Ecurie Deruaz;Manège;Ecurie Deruaz;Manège;1;extérieur
+221;CHOULEX;Ecurie de Choulex;Manège;Ecurie de Choulex;Manège;1;extérieur et intérieur
+222;COLLEX-BOSSY;Manège de Mâchefer;Manège;Manège de Mâchefer;Manège;1;extérieur et intérieur
+223;COLLEX-BOSSY;Salle communale (sous-sol);salle;Salle de Judo;salle;1;intérieur
+224;COLLEX-BOSSY;Terrain multisports clôturé;terrain;Terrain multisports clôturé;terrain;1;extérieur
+225;COLLEX-BOSSY;Stand de tir à l'arc;stand;Stand de tir à l'arc;stand;1;extérieur
+226;COLLEX-BOSSY;Stade Marc Burdet;terrain;Terrain de football - entraînement;terrain;1;extérieur
+227;COLLEX-BOSSY;Stade Marc Burdet;terrain;Terrain de football 1;terrain;1;extérieur
+228;COLLEX-BOSSY;Stade Marc Burdet;terrain;Terrain de football 2-3;terrain;2;extérieur
+229;COLLEX-BOSSY;Golf Vieille-Bâtie;terrain;Golf;terrain;1;extérieur
+230;COLLEX-BOSSY;Amicale de pétanque de Collex-Bossy;terrain;Terrains de pétanque;terrain;1;intérieur
+231;COLLEX-BOSSY;Amicale de pétanque de Collex-Bossy;terrain;Terrains de pétanque couvert;terrain;2;intérieur
+232;COLLEX-BOSSY;Ecole de Collex-Bossy;salle;Terrain de basketball;terrain;1;extérieur
+233;COLLEX-BOSSY;Ecole de Collex-Bossy;salle;Salle de gymnastique;salle;1;intérieur
+234;COLLEX-BOSSY;Randonnée pédestre rivière;randonnée;Promenade du Marquet;promenades;1;extérieur
+235;COLLEX-BOSSY;Randonnée pédestre étang;randonnée;Promenade du Canal;promenades;1;extérieur
+236;COLLONGE-BELLERIVE;Port de Bellerive;port;Port;aquatique;1;extérieur
+237;COLLONGE-BELLERIVE;Terrain de football de la Californie;terrain;Terrain de football A;terrain;1;extérieur
+238;COLLONGE-BELLERIVE;TC Collonge-Bellerive;court;Courts de tennis intérieurs;court;2;intérieur
+239;COLLONGE-BELLERIVE;TC Collonge-Bellerive;court;Courts de tennis couverts;court;2;modulable
+240;COLLONGE-BELLERIVE;TC Collonge-Bellerive;court;Mini-courts;court;2;extérieur
+241;COLLONGE-BELLERIVE;TC Collonge-Bellerive;court;Courts de tennis extérieurs;court;4;extérieur
+242;COLLONGE-BELLERIVE;Terrain de football de la Capite;terrain;Terrain de football B;terrain;1;extérieur
+243;COLLONGE-BELLERIVE;Port de la Gouille;port;Port;aquatique;1;extérieur
+244;COLLONGE-BELLERIVE;Ecole élémentaire de Collonge-Bellerive;zone de sport;Terrain multisport;terrain;1;extérieur
+245;COLLONGE-BELLERIVE;Plage de la Nymphe;plage;Plage;aquatique;1;extérieur
+246;COLLONGE-BELLERIVE;Skate park de Collonge;terrain;Skate park;terrain;1;extérieur
+247;COLLONGE-BELLERIVE;Patinoire de Vésenaz;Patinoire;Patinoire;patinoire;1;extérieur
+248;COLLONGE-BELLERIVE;Le Port-Bleu;port et plage;Plage et ponton;aquatique;1;extérieur
+249;COLLONGE-BELLERIVE;Plage de la Savonnière;plage;Epuisoir planches à voile;aquatique;1;extérieur
+250;COLLONGE-BELLERIVE;Plage de la Savonnière;plage;Plage;aquatique;1;extérieur
+251;COLLONGE-BELLERIVE;Pointe-à-la-Bise;port et plage;Plage;aquatique;1;extérieur
+252;COLLONGE-BELLERIVE;Pointe-à-la-Bise;port et plage;"Port ""des pêcheurs""";aquatique;1;extérieur
+253;COLLONGE-BELLERIVE;Pointe-à-la-Bise;port et plage;Club d'aviron Vésenaz;aquatique;1;extérieur
+254;COLLONGE-BELLERIVE;La Pallanterie - Manège de Genève;Manège;Manège de Genève;Manège;1;extérieur et intérieur
+255;COLLONGE-BELLERIVE;CO de Bois-Caran;zone de sport;Salle de gymnastique;salle;3;intérieur
+256;COLLONGE-BELLERIVE;CO de Bois-Caran;zone de sport;Pistes extérieures;terrain;1;extérieur
+257;COLLONGE-BELLERIVE;CO de Bois-Caran;zone de sport;Terrains de basket;terrain;2;extérieur
+258;COLLONGE-BELLERIVE;Ecole primaire de Collonge-Bellerive;zone de sport;Terrain de basketball;terrain;1;extérieur
+259;COLLONGE-BELLERIVE;Ecole primaire de Collonge-Bellerive;zone de sport;Salle de rythmique;salle;1;intérieur
+260;COLLONGE-BELLERIVE;Ecole primaire de Collonge-Bellerive;zone de sport;Salle de gymnastique;salle;1;intérieur
+261;COLLONGE-BELLERIVE;Ecole primaire de Collonge-Bellerive;zone de sport;Salle de judo;salle;1;intérieur
+262;COLLONGE-BELLERIVE;Ecole Vésenaz-Californie;zone de sport;Salle de rythmique;salle;2;intérieur
+263;COLLONGE-BELLERIVE;Ecole Vésenaz-Californie;zone de sport;Terrain de basketball;terrain;1;extérieur
+264;COLLONGE-BELLERIVE;Ecole Vésenaz-Californie;zone de sport;Salle de gymnastique;salle;1;intérieur
+265;COLOGNY;Port Noir - La Nautique;port;Club d'aviron;aquatique;1;extérieur
+266;COLOGNY;Port Noir - La Nautique;port;Embarcadère ski nautique;aquatique;1;extérieur
+267;COLOGNY;Port Noir - La Nautique;port;Port;aquatique;1;extérieur
+268;COLOGNY;Port de la Tour-Carrée;port;Epuisoir à planches à voile;aquatique;1;extérieur
+269;COLOGNY;Port de la Tour-Carrée;port;Port;aquatique;1;extérieur
+270;COLOGNY;Port de la Belotte;port;Port;aquatique;1;extérieur
+271;COLOGNY;Genève-Plage;plage;Plage;aquatique;1;extérieur
+272;COLOGNY;Genève-Plage;plage;Genève Plage;piscine;1;extérieur
+273;COLOGNY;Genève-Plage;plage;Terrain de beach-volley;terrain;2;extérieur
+274;COLOGNY;Genève-Plage;plage;Boulodrome;terrain;3;extérieur
+275;COLOGNY;Genève-Plage;plage;Tables de ping-pong;terrain;10;extérieur
+276;COLOGNY;Stade de Frontenex;stade;Terrain de football Frontenex A;terrain;1;extérieur
+277;COLOGNY;Stade de Frontenex;stade;Terrain de football Frontenex B;terrain;1;extérieur
+278;COLOGNY;Stade de Frontenex;stade;Terrain de football Frontenex D (Pré-Picot);terrain;1;extérieur
+279;COLOGNY;Ecole du Manoir;zone de sport;Terrain de football;terrain;1;extérieur
+280;COLOGNY;Ecole du Manoir;zone de sport;Boulodrome;terrain;2;extérieur
+281;COLOGNY;Ecole du Manoir;zone de sport;Salle de gymnastique;salle;1;intérieur
+282;COLOGNY;Ecole du Manoir;zone de sport;Salle omnisports;salle;1;intérieur
+283;COLOGNY;Centre sportif de Cologny;centre sportif;Terrain de badminton - Halle de sports;court;3;intérieur
+284;COLOGNY;Centre sportif de Cologny;centre sportif;Squash;salle;2;intérieur
+285;COLOGNY;Centre sportif de Cologny;centre sportif;Salle de gymnastique;salle;1;intérieur
+286;COLOGNY;Centre sportif de Cologny;centre sportif;Courts de tennis;court;6;extérieur
+287;COLOGNY;Centre sportif de Cologny;centre sportif;Courts de tennis - Halle de sports;salle;2;intérieur
+288;COLOGNY;Centre sportif de Cologny;centre sportif;Squash - Halle de sports;terrain;3;intérieur
+289;COLOGNY;Centre sportif de Cologny;centre sportif;Salle de fitness - Halle de sports;salle;1;intérieur
+290;COLOGNY;Centre sportif de Cologny;centre sportif;Mur de grimpe - Halle de sports;mur;1;intérieur
+291;COLOGNY;Centre sportif de Cologny;centre sportif;Boulodrome;terrain;1;extérieur
+292;COLOGNY;Tropical Corner;port et plage;Centre ski-nautique;aquatique;1;extérieur
+293;COLOGNY;Tropical Corner;port et plage;Centre véliplanchiste;aquatique;1;extérieur
+294;CAROUGE;Ecole de la Vigne-Rouge;zone de sport;Salle de gymnastique;salle;1;intérieur
+295;CAROUGE;Ecole de la Vigne-Rouge;zone de sport;Salle de rythmique;salle;1;intérieur
+296;CAROUGE;Centre sportif des Pervenches;centre sportif;Piscine;piscine;1;intérieur
+297;CAROUGE;Centre sportif des Pervenches;centre sportif;Salle de sports;salle;1;intérieur
+298;CAROUGE;Centre sportif des Pervenches;centre sportif;Salle de rythmique;salle;1;intérieur
+299;CAROUGE;Centre sportif des Pervenches;centre sportif;Salle de judo;salle;1;intérieur
+300;CAROUGE;Centre sportif des Pervenches;centre sportif;Mini terrain de foot;terrain;1;extérieur
+301;CAROUGE;Ecole Jacques-Dalphin;zone de sport;Salle de rythmique;salle;1;intérieur
+302;CAROUGE;Ecole Jacques-Dalphin;zone de sport;Terrain de basket;terrain;1;extérieur
+303;CAROUGE;Ecole Jacques-Dalphin;zone de sport;Mini terrain de foot;terrain;1;extérieur
+304;CAROUGE;Ecole Jacques-Dalphin;zone de sport;Installation d'athlétisme;terrain;1;extérieur
+305;CAROUGE;Salles des Charmettes;salle;Salle de lutte;salle;1;intérieur
+306;CAROUGE;Salles des Charmettes;salle;Salle de gymnastique;salle;1;intérieur
+307;CAROUGE;CO de Pinchat;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+308;CAROUGE;CO de Pinchat;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+309;CAROUGE;CO de Pinchat;zone de sport;Salles de gymnastique;salle;3;intérieur
+310;CAROUGE;CO de Pinchat;zone de sport;Tables de ping pong;terrain;2;extérieur
+311;CAROUGE;CO de Pinchat;zone de sport;Mini terrain de football;terrain;1;extérieur
+312;CAROUGE;CEC Madame-de-Staël;zone de sport;Courts de tennis;court;3;extérieur
+313;CAROUGE;CEC Madame-de-Staël;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+314;CAROUGE;CEC Madame-de-Staël;zone de sport;Salle de gymnastique;salle;1;intérieur
+315;CAROUGE;Ecole des Promenades;zone de sport;Salle de gymnastique;salle;1;intérieur
+316;CAROUGE;Ecole des Promenades;zone de sport;Salle de rythmique;salle;1;intérieur
+317;CAROUGE;Ecole des Promenades;zone de sport;Terrain de basketball;terrain;1;extérieur
+318;CAROUGE;TC Carouge (Pinchat);court;Courts de tennis;court;2;extérieur
+319;CAROUGE;TC Carouge (Pinchat);court;Courts de tennis;court;2;extérieur
+320;CAROUGE;TC Carouge (Pinchat);court;Courts de tennis;court;4;extérieur et intérieur
+321;CAROUGE;TC Carouge (Pinchat);court;Mini-courts;court;1;extérieur
+322;CAROUGE;TC Carouge (Pinchat);court;Mur d'entraînement;court;1;extérieur
+323;CAROUGE;TC Carouge (Pinchat);court;Boulodrome;terrain;2;extérieur
+324;CAROUGE;Stade de la Fontenette;terrain;Terrain de football A;terrain;1;extérieur
+325;CAROUGE;Stade de la Fontenette;terrain;Terrain de football B;terrain;1;extérieur
+326;CAROUGE;Stade de la Fontenette;terrain;Terrain de football C;terrain;1;extérieur
+327;CAROUGE;Stade de la Fontenette;terrain;Terrain de fooball E;terrain;1;extérieur
+328;CAROUGE;Stade de la Fontenette;terrain;Terrain de football D;terrain;1;extérieur
+329;CAROUGE;Centre sportif du boulodrome;centre sportif;Boulodrome extérieur;terrain;9;extérieur
+330;CAROUGE;Centre sportif du boulodrome;centre sportif;Boulodrome couvert;salle;14;intérieur
+331;CAROUGE;Centre sportif du boulodrome;centre sportif;Terrain de volley-ball;terrain;1;extérieur
+332;CAROUGE;Centre sportif du boulodrome;centre sportif;Tennis de la Fontenette;court;2;extérieur et intérieur
+333;CARTIGNY;Terrain de la Petite Plaine;terrain;Terrain de football;terrain;1;extérieur
+334;CARTIGNY;Stand de tir à l'arc;stand;Stand de tir à l'arc;stand;1;extérieur
+335;CARTIGNY;Ecole de Cartigny;zone de sport;Salle de gymnastique;salle;1;intérieur
+336;CARTIGNY;Ecole de Cartigny;zone de sport;Salle de rythmique;salle;1;intérieur
+337;CARTIGNY;Ecole de Cartigny;zone de sport;Terrain de basketball;terrain;1;extérieur
+338;CARTIGNY;Ecole de Cartigny;zone de sport;Terrain de football;terrain;1;extérieur
+339;CELIGNY;Salle communale;zone de sport;Salle de gymnastique;salle;1;intérieur
+340;CELIGNY;Port et plage de Céligny;port et plage;Plage;aquatique;1;extérieur
+341;CELIGNY;Port et plage de Céligny;port et plage;Port;aquatique;1;extérieur
+342;CELIGNY;Port et plage de Céligny;port et plage;Boulodrome;terrain;1;extérieur
+343;CELIGNY;Boulodrome du Parc;terrain;Terrain de pétanque;terrain;1;extérieur
+344;CELIGNY;Mini terrain de football;terrain;Mini terrain de football;terrain;1;extérieur
+345;CELIGNY;Ecole de Céligny;salle;Terrain de basketball;terrain;1;extérieur
+346;CELIGNY;Terrain multisports clôturé;terrain;Terrain multisports clôturé;terrain;1;extérieur
+347;CHANCY;Ecurie du Cannelet;Manège;Manège;Manège;1;extérieur
+348;CHANCY;Ecole de Chancy;zone de sport;Piscine de Chancy;piscine;1;intérieur
+349;CHANCY;Ecole de Chancy;zone de sport;Salle de gymnastique;salle;1;intérieur
+350;CHANCY;Ecole de Chancy;zone de sport;Terrain de football;terrain;1;extérieur
+351;CHANCY;Ecole de Chancy;zone de sport;Terrain de basketball;terrain;1;extérieur
+352;CHANCY;Ecole de Chancy;zone de sport;Salle de rythmique;salle;1;intérieur
+353;CHENE-BOUGERIES;Ecole du Belvedère;zone de sport;Piscine de l'école du Belvédère;piscine;1;intérieur
+354;CHENE-BOUGERIES;Ecole du Belvedère;zone de sport;Salle de rythmique;salle;1;intérieur
+355;CHENE-BOUGERIES;Ecole du Belvedère;zone de sport;Terrain de football;terrain;1;extérieur
+356;CHENE-BOUGERIES;Ecole de Conches;salle;Salle de rythmique;salle;1;intérieur
+357;CHENE-BOUGERIES;Ecole de Conches;salle;Terrain de basketball;terrain;1;extérieur
+358;CHENE-BOUGERIES;Ecole de Conches;salle;Tables de ping-pong;terrain;2;extérieur
+359;CHENE-BOUGERIES;Parc intergénérationnel de la Gradelle;zone de sport;Fitness urbain;terrain;1;extérieur
+360;CHENE-BOUGERIES;Parc intergénérationnel de la Gradelle;zone de sport;Terrain de football;terrain;1;extérieur
+361;CHENE-BOUGERIES;Parc intergénérationnel de la Gradelle;zone de sport;Cirque en Chêne;terrain;1;extérieur et intérieur
+362;CHENE-BOUGERIES;Parc Stagni;terrain;Parcours de disc golf;terrain;1;extérieur
+363;CHENE-BOUGERIES;Centre Intégration Socio-Professionnelle SGIPA;salle;Piscine;piscine;1;intérieur
+364;CHENE-BOUGERIES;Centre Intégration Socio-Professionnelle SGIPA;salle;Salle de gymnastique;salle;1;intérieur
+365;CHENE-BOUGERIES;Centre Intégration Socio-Professionnelle SGIPA;salle;Terrains de basket;terrain;2;extérieur
+366;CHENE-BOUGERIES;Centre Intégration Socio-Professionnelle SGIPA;salle;Terrain de volley;terrain;1;extérieur
+367;CHENE-BOUGERIES;Ecole de Chêne-Bougeries;zone de sport;Salle de gymnastique;salle;1;intérieur
+368;CHENE-BOUGERIES;Ecole de Chêne-Bougeries;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+369;CHENE-BOUGERIES;Ecole de Chêne-Bougeries;zone de sport;Terrain de basketball;terrain;1;extérieur
+370;CHENE-BOUGERIES;Collège Claparède;zone de sport;Courts de tennis;court;2;extérieur
+371;CHENE-BOUGERIES;Collège Claparède;zone de sport;Salle de musculation;salle;1;intérieur
+372;CHENE-BOUGERIES;Collège Claparède;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+373;CHENE-BOUGERIES;Collège Claparède;zone de sport;Salle de gymnastique (1-2-3);salle;3;intérieur
+374;CHENE-BOUGERIES;Ecole de la Gradelle;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+375;CHENE-BOUGERIES;Ecole de la Gradelle;zone de sport;Salle de rythmique;salle;1;intérieur
+376;CHENE-BOUGERIES;Ecole de la Gradelle;zone de sport;Salle de gymnastique;salle;1;intérieur
+377;CHENE-BOUGERIES;ECG Jean-Piaget;zone de sport;Terrains polyvalents;terrain;3;extérieur
+378;CHENE-BOUGERIES;ECG Jean-Piaget;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+379;CHENE-BOUGERIES;ECG Jean-Piaget;zone de sport;Salle de rythmique;salle;1;intérieur
+380;GENEVE;Centre sportif de Varembé;centre sportif;Terrain de basketball;terrain;1;extérieur
+381;GENEVE;Centre sportif de Varembé;centre sportif;Terrain de volley-ball;terrain;1;extérieur
+382;GENEVE;Centre sportif de Varembé;centre sportif;Zone de mini-athlétisme;terrain;1;extérieur
+383;GENEVE;Centre sportif de Varembé;centre sportif;Salle de tennis de table (1er étage);salle;1;intérieur
+384;GENEVE;Salle de tennis de table des Minoteries;salle;Salle de tennis de table;salle;1;intérieur
+385;GENEVE;Stade de Richemont;stade;Salle de tennis de table (petite);salle;1;intérieur
+386;GENEVE;Stade de Richemont;stade;Terrain de hockey sur gazon;terrain;1;extérieur
+387;GENEVE;Stade de Richemont;stade;Terrains de pétanque;terrain;7;extérieur
+388;GENEVE;Stade de Richemont;stade;Stade d'athlétisme;stade;1;extérieur
+389;GENEVE;Stade de Richemont;stade;Salle de tennis de table (grande);salle;1;intérieur
+390;GENEVE;Centre sportif de la Queue-d'Arve;centre sportif;Boulodrome;salle;26;intérieur
+391;GENEVE;Centre sportif de la Queue-d'Arve;centre sportif;Terrains de pétanque;terrain;8;extérieur
+392;GENEVE;Centre sportif de la Queue-d'Arve;centre sportif;Salle omnisports;salle;1;intérieur
+393;GENEVE;Centre sportif de la Queue-d'Arve;centre sportif;Murs d'escalade;salle;1;intérieur
+394;GENEVE;Centre sportif de la Queue-d'Arve;centre sportif;Terrains de badminton;court;10;intérieur
+395;GENEVE;Centre sportif de la Queue-d'Arve;centre sportif;Salle de rink-hockey;salle;1;intérieur
+396;GENEVE;Centre sportif de la Queue-d'Arve;centre sportif;Vélodrome;salle;1;intérieur
+397;GENEVE;TC Drizia-Miremont;court;Courts de tennis;court;4;extérieur et intérieur
+398;GENEVE;TC Drizia-Miremont;court;Boulodrome;terrain;2;extérieur
+399;GENEVE;TC Drizia-Miremont;court;Courts de tennis;court;7;extérieur
+400;GENEVE;TC Drizia-Miremont;court;Mini-courts de tennis;court;3;extérieur
+401;GENEVE;TC Genève - Eaux-Vives;court;Courts de tennis;court;7;extérieur
+402;GENEVE;TC Genève - Eaux-Vives;court;Courts de tennis;court;3;extérieur
+403;GENEVE;TC Genève - Eaux-Vives;court;Courts de tennis;court;1;extérieur
+404;GENEVE;TC Genève - Eaux-Vives;court;Courts de tennis;court;9;extérieur
+405;GENEVE;Ecole Liotard;zone de sport;Piscine de Liotard;piscine;1;intérieur
+406;GENEVE;Ecole Liotard;zone de sport;Salle de rythmique I;salle;1;intérieur
+407;GENEVE;Ecole Liotard;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+408;GENEVE;Ecole Liotard;zone de sport;Salle de gymnastique;salle;1;intérieur
+409;DARDAGNY;Centre sportif de Dardagny;salle;Skatepark;terrain;1;extérieur
+410;DARDAGNY;Centre sportif de Dardagny;salle;Courts de tennis;court;2;extérieur
+411;DARDAGNY;Centre sportif de Dardagny;salle;Boulodrome;terrain;10;extérieur
+412;DARDAGNY;Stade de Donzelle;stade;Terrain de football;terrain;1;extérieur
+413;DARDAGNY;Stade de Donzelle;stade;Terrain de football d'entraînement;terrain;1;extérieur
+414;DARDAGNY;Stade de Donzelle;stade;Terrain de football junior;terrain;1;extérieur
+415;DARDAGNY;Ecole de Dardagny;zone de sport;Terrain de basket;terrain;1;extérieur
+416;DARDAGNY;Ecole de Dardagny;zone de sport;Mini terrain de foot;terrain;1;extérieur
+417;DARDAGNY;Parc de jeux de La Plaine;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+418;DARDAGNY;Parc de jeux de La Plaine;zone de sport;Terrain de volley;terrain;1;extérieur
+419;DARDAGNY;Ecurie de Chafalet;Manège;Manège;Manège;1;extérieur et intérieur
+420;GENEVE;Bains des Pâquis;plage;Bain des Pâquis - Plage;aquatique;1;extérieur
+421;GENEVE;Bains des Pâquis;plage;Bassin de waterpolo;piscine;1;extérieur
+422;GENEVE;Bains des Pâquis;plage;Bassins clos I;piscine;1;extérieur
+423;GENEVE;Bains des Pâquis;plage;Boulodrome;terrain;2;extérieur
+424;GENEVE;Bains des Pâquis;plage;Fitness urbain;terrain;1;extérieur
+425;GENEVE;Bains des Pâquis;plage;Tables de ping pong;terrain;3;couvert
+426;GENEVE;Ecole des Allières;zone de sport;Salle de rythmique I;salle;1;intérieur
+427;GENEVE;Ecole des Allières;zone de sport;Salle de rythmique II;salle;1;intérieur
+428;GENEVE;Ecole des Allières;zone de sport;Terrain de basket;terrain;1;extérieur
+429;GENEVE;Ecole des Allières;zone de sport;Tables de ping pong;terrain;2;extérieur
+430;GENEVE;Ecole des Allières;zone de sport;Salle de gymnastique;salle;1;intérieur
+431;GENEVE;Parc Hentsch;zone de sport;Fitness urbain;terrain;1;extérieur
+432;GENEVE;Parc Baud-Bovy;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+433;GENEVE;Parc Baud-Bovy;zone de sport;Tables de ping pong;terrain;2;extérieur
+434;GENEVE;Ecole des Charmilles;zone de sport;Salle de rythmique;salle;1;intérieur
+435;GENEVE;Ecole des Charmilles;zone de sport;Terrain de basket;terrain;1;extérieur
+436;GENEVE;Ecole des Charmilles;zone de sport;Terrain de mini foot;terrain;1;extérieur
+437;GENEVE;Ecole des Charmilles;zone de sport;Tables de ping pong;terrain;2;extérieur
+438;GENEVE;Ecole des Charmilles;zone de sport;Salle de gymnastique;salle;1;intérieur
+439;GENEVE;Ecole des Crêts-de-Champel;zone de sport;Salle de rythmique;salle;1;intérieur
+440;GENEVE;Ecole des Crêts-de-Champel;zone de sport;Terrain de basket;terrain;1;extérieur
+441;GENEVE;Ecole des Crêts-de-Champel;zone de sport;Tables de ping pong;terrain;2;couvert
+442;GENEVE;Ecole des Crêts-de-Champel;zone de sport;Salles de gymnastique;salle;2;intérieur
+443;GENEVE;Ecole des Cropettes;zone de sport;Salle de rythmique;salle;1;intérieur
+444;GENEVE;Ecole des Cropettes;zone de sport;Salle de danse;salle;1;intérieur
+445;GENEVE;Ecole des Cropettes;zone de sport;Terrain de mini foot;terrain;1;extérieur
+446;GENEVE;Ecole des Cropettes;zone de sport;Salle de gymnastique;salle;1;intérieur
+447;GENEVE;Ecole du Seujet;zone de sport;Terrain de basket;terrain;1;extérieur
+448;GENEVE;Ecole du Seujet;zone de sport;Terrain de mini foot;terrain;1;extérieur
+449;GENEVE;Ecole du Seujet;zone de sport;Salle de rythmique;salle;1;intérieur
+450;GENEVE;Ecole du Seujet;zone de sport;Salle de gymnastique;salle;1;intérieur
+451;GENEVE;Ecole des Eaux-Vives;zone de sport;Salle de rythmique;salle;1;intérieur
+452;GENEVE;Ecole des Eaux-Vives;zone de sport;Terrain de mini-football;terrain;1;extérieur
+453;GENEVE;Ecole des Eaux-Vives;zone de sport;Salle de gymnastique;salle;1;intérieur
+454;GENEVE;EFP Saint-Gervais;salle;Terrain de basket;terrain;1;extérieur
+455;GENEVE;EFP Saint-Gervais;salle;Tables de ping pong;terrain;2;extérieur
+456;GENEVE;EFP Saint-Gervais;salle;Salle de gymnastique;salle;1;intérieur
+457;GENEVE;Ecole Ferdinand-Hodler;zone de sport;Salle de rythmique;salle;1;intérieur
+458;GENEVE;Ecole Ferdinand-Hodler;zone de sport;Terrain de mini football;terrain;1;extérieur
+459;GENEVE;Ecole Ferdinand-Hodler;zone de sport;Salle de gymnastique;salle;1;intérieur
+460;GENEVE;Ecole de Budé;zone de sport;Salle de rythmique;salle;1;intérieur
+461;GENEVE;Ecole de Budé;zone de sport;Terrain de basket;terrain;1;extérieur
+462;GENEVE;Ecole de Budé;zone de sport;Terrain de mini football 1;terrain;1;extérieur
+463;GENEVE;Ecole de Budé;zone de sport;Terrain de mini football 2;terrain;1;extérieur
+464;GENEVE;Ecole de Budé;zone de sport;Salle de gymnastique I;salle;1;intérieur
+465;GENEVE;Ecole de Budé;zone de sport;Salle de gymnastique II;salle;1;intérieur
+466;GENEVE;Ecole des Franchises;zone de sport;Salle de rythmique;salle;1;intérieur
+467;GENEVE;Ecole des Franchises;zone de sport;Terrain de mini football;terrain;1;extérieur
+468;GENEVE;Ecole des Franchises;zone de sport;Terrain de basketball;terrain;1;extérieur
+469;GENEVE;Ecole des Franchises;zone de sport;Tables de ping pong;terrain;3;extérieur
+470;GENEVE;Ecole des Franchises;zone de sport;Salle de gymnastique;salle;1;intérieur
+471;GENEVE;Sentier des Saules;port et plage;Canoë-Club de Genève;aquatique;1;extérieur
+472;GENEVE;Sentier des Saules;port et plage;Bains du Rhône;aquatique;1;extérieur
+473;GENEVE;Ecole Geisendorf;zone de sport;Salle de rythmique I;salle;1;intérieur
+474;GENEVE;Ecole Geisendorf;zone de sport;Salle de rythmique II;salle;1;intérieur
+475;GENEVE;Ecole Geisendorf;zone de sport;Terrain de basket I;terrain;1;extérieur
+476;GENEVE;Ecole Geisendorf;zone de sport;Terrain de basket II;terrain;1;extérieur
+477;GENEVE;Ecole Geisendorf;zone de sport;Terrain de mini foot I;terrain;1;extérieur
+478;GENEVE;Ecole Geisendorf;zone de sport;Terrain de mini foot II;terrain;1;extérieur
+479;GENEVE;Ecole Geisendorf;zone de sport;Salle de gymnastique I;salle;1;intérieur
+480;GENEVE;Ecole Geisendorf;zone de sport;Salle de gymnastique II;salle;1;intérieur
+481;GENEVE;Ecole des Grottes;zone de sport;Salle de rythmique;salle;2;intérieur
+482;GENEVE;Ecole des Grottes;zone de sport;Terrain de mini football;terrain;1;extérieur
+483;GENEVE;Ecole des Grottes;zone de sport;Salle de gymnastique;salle;1;intérieur
+484;GENEVE;Ecole des Grottes;zone de sport;Dojo;salle;1;intérieur
+485;GENEVE;Ecole Hugo de Senger;zone de sport;Salle de rythmique;salle;1;intérieur
+486;GENEVE;Ecole Hugo de Senger;zone de sport;Salle de boxe;salle;1;intérieur
+487;GENEVE;Ecole Hugo de Senger;zone de sport;Mini terrain de foot;terrain;1;extérieur
+488;GENEVE;Ecole Hugo de Senger;zone de sport;Terrain de basket;terrain;1;extérieur
+489;GENEVE;Ecole Hugo de Senger;zone de sport;Tables de ping pong;terrain;2;extérieur
+490;GENEVE;Ecole Hugo de Senger;zone de sport;Salle de gymnastique I;salle;1;intérieur
+491;GENEVE;Ecole Hugo de Senger;zone de sport;Salle de gymnastique II;salle;1;intérieur
+492;GENEVE;Ecole Le Corbusier;zone de sport;Salle de rythmique I;salle;1;intérieur
+493;GENEVE;Ecole Le Corbusier;zone de sport;Salle de rythmique II;salle;1;intérieur
+494;GENEVE;Ecole Le Corbusier;zone de sport;Terrain de basket;terrain;1;extérieur
+495;GENEVE;Ecole Le Corbusier;zone de sport;Mini terrain de foot;terrain;1;extérieur
+496;GENEVE;Ecole Le Corbusier;zone de sport;Tables de ping pong;terrain;2;extérieur
+497;GENEVE;Ecole Le Corbusier;zone de sport;Salle de gymnastique;salle;1;intérieur
+498;GENEVE;Ecole Le Corbusier;zone de sport;Salle de judo;salle;1;intérieur
+499;GENEVE;Ecole du Mail;zone de sport;Salle de tir;salle;1;intérieur
+500;GENEVE;Ecole du Mail;zone de sport;Salle de boxe;salle;1;intérieur
+501;GENEVE;Ecole du Mail;zone de sport;Salle de rythmique I;salle;1;intérieur
+502;GENEVE;Ecole du Mail;zone de sport;Salle de rythmique II;salle;1;intérieur
+503;GENEVE;Ecole du Mail;zone de sport;Terrain de basket;terrain;1;extérieur
+504;GENEVE;Ecole du Mail;zone de sport;Salle de gymnastique I;salle;1;intérieur
+505;GENEVE;Ecole du Mail;zone de sport;Salle de gymnastique II;salle;1;intérieur
+506;GENEVE;Ecole de Roches;zone de sport;Mini terrain de foot I;terrain;1;extérieur
+507;GENEVE;Ecole de Roches;zone de sport;Mini terrain de foot II;terrain;1;extérieur
+508;GENEVE;Ecole de Roches;zone de sport;Salle de gymnastique;salle;1;intérieur
+509;GENEVE;Ecole de la Roseraie;zone de sport;Salles de rythmique;salle;2;intérieur
+510;GENEVE;Ecole de la Roseraie;zone de sport;Mini terrain de foot;terrain;1;extérieur
+511;GENEVE;Ecole de la Roseraie;zone de sport;Tables de ping pong;terrain;2;extérieur
+512;GENEVE;Ecole de la Roseraie;zone de sport;Salle de gymnastique;salle;1;intérieur
+513;GENEVE;Ecole de Saint-Jean;zone de sport;Salle de rythmique;salle;1;intérieur
+514;GENEVE;Ecole de Saint-Jean;zone de sport;Mini terrain de football;terrain;1;extérieur
+515;GENEVE;Ecole de Saint-Jean;zone de sport;Salle de gymnastique;salle;1;intérieur
+516;GENEVE;Ecole de Sécheron;zone de sport;Salle de rythmique;salle;1;intérieur
+517;GENEVE;Ecole de Sécheron;zone de sport;Mini terrain de football;terrain;1;extérieur
+518;GENEVE;Ecole de Sécheron;zone de sport;Tables de ping pong;terrain;2;extérieur
+519;GENEVE;Ecole de Sécheron;zone de sport;Salle de gymnastique;salle;1;intérieur
+520;GENEVE;Perle du Lac;port et plage;Port Nautica;aquatique;1;extérieur
+521;GENEVE;Perle du Lac;port et plage;Port Perle du Lac;aquatique;1;extérieur
+522;GENEVE;Perle du Lac;port et plage;Port Barton;aquatique;1;extérieur
+523;GENEVE;Perle du Lac;port et plage;Embarcadère de ski nautique;aquatique;1;extérieur
+524;GENEVE;Perle du Lac;port et plage;Plage;aquatique;1;extérieur
+525;GENEVE;Ecole de Trembley;zone de sport;Salle de rythmique I;salle;1;intérieur
+526;GENEVE;Ecole de Trembley;zone de sport;Tables de ping pong;terrain;2;extérieur
+527;GENEVE;Ecole de Trembley;zone de sport;Salle de rythmique II;salle;1;intérieur
+528;GENEVE;Ecole de Trembley;zone de sport;Salle de gymnastique I;salle;1;intérieur
+529;GENEVE;Ecole de Trembley;zone de sport;Salle de gymnastique II;salle;1;intérieur
+530;GENEVE;Ecole des Vollandes;zone de sport;Salle de rythmique I;salle;1;intérieur
+531;GENEVE;Ecole des Vollandes;zone de sport;Salle de rythmique II;salle;1;intérieur
+532;GENEVE;Ecole des Vollandes;zone de sport;Terrain de basket;stand;1;extérieur
+533;GENEVE;Ecole des Vollandes;zone de sport;Mini terrain de foot;terrain;1;extérieur
+534;GENEVE;Ecole des Vollandes;zone de sport;Salle de gymnastique;salle;1;intérieur
+535;GENEVE;Salle d'haltérophilie de Sainte-Clotilde;salle;Salle d'haltérophilie;salle;1;intérieur
+536;GENEVE;Ecole de Cayla;zone de sport;Salle de rythmique I;salle;1;intérieur
+537;GENEVE;Ecole de Cayla;zone de sport;Salle de rythmique II;salle;1;intérieur
+538;GENEVE;Ecole de Cayla;zone de sport;Mini terrains de foot;terrain;2;extérieur
+539;GENEVE;Ecole de Cayla;zone de sport;Salle de gymnastique;salle;1;intérieur
+540;GENEVE;Ecole des Crêts;zone de sport;Mini terrain de foot;terrain;1;extérieur
+541;GENEVE;Ecole des Crêts;zone de sport;Salle de rythmique;salle;1;intérieur
+542;GENEVE;Ecole des Crêts;zone de sport;Salle de gymnastique;salle;1;intérieur
+543;GENEVE;Ecole de l'Europe;zone de sport;Salles de rythmique;salle;2;intérieur
+544;GENEVE;Ecole de l'Europe;zone de sport;Mini terrains de football;terrain;2;extérieur
+545;GENEVE;Ecole de l'Europe;zone de sport;Salle de gymnastique;salle;1;intérieur
+546;GENEVE;Ecole des Genêts;zone de sport;Salle de rythmique;salle;1;intérieur
+547;GENEVE;Ecole des Genêts;zone de sport;Mini terrain de football;terrain;1;extérieur
+548;GENEVE;Ecole des Genêts;zone de sport;Salle de gymnastique;salle;1;intérieur
+549;GENEVE;Ecole des Allobroges;zone de sport;Salle de rythmique;salle;2;intérieur
+550;GENEVE;Ecole des Allobroges;zone de sport;Mini terrain de football;terrain;1;extérieur
+551;GENEVE;Ecole des Allobroges;zone de sport;Salle de gymnastique;salle;1;intérieur
+552;GENEVE;Ecole de la Cité-Jonction;zone de sport;Salle de rythmique;salle;1;intérieur
+553;GENEVE;Ecole de la Cité-Jonction;zone de sport;Mini terrain de football;terrain;1;extérieur
+554;GENEVE;Ecole de la Cité-Jonction;zone de sport;Tables de ping pong;terrain;2;extérieur
+555;GENEVE;Ecole de la Cité-Jonction;zone de sport;Salle de gymnastique;salle;1;intérieur
+556;GENEVE;Ecole Micheli-du-Crest;zone de sport;Salle de rythmique;salle;1;intérieur
+557;GENEVE;Ecole Micheli-du-Crest;zone de sport;Mini terrain de football;terrain;1;extérieur
+558;GENEVE;Ecole Micheli-du-Crest;zone de sport;Mini terrain de volley;terrain;1;extérieur
+559;GENEVE;Ecole Micheli-du-Crest;zone de sport;Tables de ping pong;terrain;2;extérieur
+560;GENEVE;Ecole Micheli-du-Crest;zone de sport;Salle de gymnastique;salle;1;intérieur
+561;GENEVE;Centre sportif des Vernets;centre sportif;Patinoire des Vernets 1;patinoire;1;intérieur
+562;GENEVE;Centre sportif des Vernets;centre sportif;Patinoire des Vernets 2;patinoire;1;couvert
+563;GENEVE;Centre sportif des Vernets;centre sportif;Piscines intérieures;piscine;1;intérieur
+564;GENEVE;Centre sportif des Vernets;centre sportif;Piscines extérieures;piscine;1;extérieur
+565;GENEVE;Centre sportif des Vernets;centre sportif;Salle de fitness;salle;1;intérieur
+566;GENEVE;Ecole de Montchoisy;zone de sport;Salle de rythmique;salle;1;intérieur
+567;GENEVE;Ecole de Montchoisy;zone de sport;Mini terrain de football;terrain;1;extérieur
+568;GENEVE;Ecole de Montchoisy;zone de sport;Salle de gymnastique;salle;1;intérieur
+569;GENEVE;Ecole des Plantaporrêts;zone de sport;Salle de rythmique;salle;1;intérieur
+570;GENEVE;Ecole des Plantaporrêts;zone de sport;Mini terrain de football;terrain;1;extérieur
+571;GENEVE;Ecole des Plantaporrêts;zone de sport;Salle de gymnastique;salle;1;intérieur
+572;GENEVE;Ecole de Pré-Picot;zone de sport;Salles de rythmique;salle;2;intérieur
+573;GENEVE;Ecole de Pré-Picot;zone de sport;Mini terrain de football;terrain;1;extérieur
+574;GENEVE;Ecole de Pré-Picot;zone de sport;Terrain multisport clôturé;terrain;1;extérieur
+575;GENEVE;Ecole de Pré-Picot;zone de sport;Tables de ping pong;terrain;3;extérieur
+576;GENEVE;Ecole de Pré-Picot;zone de sport;Skatepark;terrain;1;extérieur
+577;GENEVE;Ecole de Pré-Picot;zone de sport;Salle de gymnastique;salle;1;intérieur
+578;GENEVE;Salle des Vieux-Grenadiers;salle;Salle de gymnastique;salle;1;intérieur
+579;GENEVE;Centre sportif de Varembé;centre sportif;Piscine couverte;piscine;1;intérieur
+580;GENEVE;Centre sportif de Varembé;centre sportif;Piscine extérieure;piscine;1;extérieur
+581;GENEVE;Centre sportif de Varembé;centre sportif;Salle de tennis de table (rez-de-chaussée);salle;1;intérieur
+582;GENEVE;Centre sportif de Varembé;centre sportif;Terrain de football A;terrain;1;extérieur
+583;GENEVE;Centre sportif de Varembé;centre sportif;Terrain de football B;terrain;1;extérieur
+584;GENEVE;Centre sportif de Varembé;centre sportif;Terrain de football C;terrain;1;extérieur
+585;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Terrains de football Champel 5 et 6;terrain;2;extérieur
+586;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Terrains de basketball;terrain;2;extérieur
+587;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Terrains de volley-ball;terrain;3;extérieur
+588;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Installation d'athlétisme;terrain;1;extérieur
+589;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Murs de grimpe;terrain;1;extérieur
+590;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Piste de bicross;terrain;1;extérieur
+591;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Salle d'armes;salle;1;intérieur
+592;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Terrain de basketball;terrain;1;extérieur
+593;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Salle de musculation;salle;1;intérieur
+594;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Salle de sports A;salle;1;intérieur
+595;GENEVE;Port des Eaux-Vives;port;Port;aquatique;1;extérieur
+596;GENEVE;Parc des Bastions;zone de sport;Patinoire saisonnière;patinoire;1;extérieur
+597;GENEVE;Parc des Bastions;zone de sport;Tables de ping pong;terrain;4;extérieur
+598;GENEVE;Espace de sports de la promenade de l'Europe;zone de sport;Patinoire saisonnière;patinoire;1;extérieur
+599;GENEVE;Ecole Beaulieu;zone de sport;Salle de rythmique;salle;1;intérieur
+600;GENEVE;Ecole Necker;zone de sport;Salle de gymnastique;salle;1;intérieur
+601;GENEVE;Ecole Necker;zone de sport;Mini terrain de football;terrain;1;extérieur
+602;GENEVE;Ecole des Ouches;zone de sport;Salle de gymnastique;salle;1;intérieur
+603;GENEVE;Ecole des Ouches;zone de sport;Salle de rythmique;salle;1;intérieur
+604;GENEVE;Ecole des Ouches;zone de sport;Mini terrain de football;terrain;1;extérieur
+605;GENEVE;Ecole Peschier;zone de sport;Salle de gymnastique;salle;1;intérieur
+606;GENEVE;Ecole Peschier;zone de sport;Salles de rythmique;salle;2;intérieur
+607;GENEVE;Ecole Peschier;zone de sport;Mini terrain de football;terrain;1;extérieur
+608;GENEVE;Ecole Charles-Giron;zone de sport;Salle de rythmique;salle;1;intérieur
+609;GENEVE;Ecole Charles-Giron;zone de sport;Mini terrain de football;terrain;1;extérieur
+610;GENEVE;Ecole Jardins-du-Rhône;zone de sport;Salle de rythmique;salle;1;intérieur
+611;GENEVE;Ecole de Chateaubriand;zone de sport;Salle de rythmique;salle;1;intérieur
+612;GENEVE;Ecole de Chateaubriand;zone de sport;Mini terrain de football;terrain;1;extérieur
+613;GENEVE;Ecole du XXXI-Décembre;zone de sport;Salle de rythmique;salle;1;intérieur
+614;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Salle de rythmique;salle;1;intérieur
+615;JUSSY;Stand de tir de Jussy;stand;Stand de tir;stand;1;couvert
+616;JUSSY;Tir aux plateaux d'argiles (ball trap);stand;Tir aux plateaux d'argiles;terrain;1;extérieur
+617;JUSSY;Arc club Jussy;club;Arc club;terrain;1;extérieur
+618;LACONNEX;Stand de tir de Laconnex;stand;Stand de tir;stand;1;extérieur
+619;LACONNEX;Zone de sports de Laconnex;terrain;Terrain de football;terrain;1;extérieur
+620;LACONNEX;Zone de sports de Laconnex;terrain;Terrain de football;terrain;1;extérieur
+621;LACONNEX;Zone de sports de Laconnex;terrain;Salle omnisports;terrain;1;intérieur
+622;LACONNEX;Zone de sports de Laconnex;terrain;Boulodrome;terrain;2;extérieur
+623;LACONNEX;Manège la Gambade;Manège;Manège la Gambade;Manège;1;extérieur et intérieur
+624;LACONNEX;Boulodrome Place de la Mairie;terrain;Boulodrome;terrain;6;extérieur
+625;LANCY;Ecole des Palettes;zone de sport;Salle de gymnastique;salle;1;intérieur
+626;LANCY;Ecole des Palettes;zone de sport;Salle de rythmique;salle;1;intérieur
+627;LANCY;Ecole des Palettes;zone de sport;Terrain de basketball;terrain;1;extérieur
+628;LANCY;Ecole des Palettes;zone de sport;Terrain de football;terrain;1;extérieur
+629;LANCY;Ecole du Petit-Lancy;zone de sport;Salle de gymnastique;salle;1;intérieur
+630;LANCY;Ecole du Petit-Lancy;zone de sport;Salle de rythmique;salle;1;intérieur
+631;LANCY;Ecole du Petit-Lancy;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+632;LANCY;Ecole de Tivoli;zone de sport;Piscine de Tivoli;piscine;1;intérieur
+633;LANCY;Ecole de Tivoli;zone de sport;Salle de gymnastique;salle;1;intérieur
+634;LANCY;Ecole de Tivoli;zone de sport;Salle de rythmique II (salle de jeux);salle;1;intérieur
+635;LANCY;Ecole de Tivoli;zone de sport;Salle de rythmique I;salle;1;intérieur
+636;LANCY;Stade de Florimont;stade;Terrain de football A;terrain;1;extérieur
+637;LANCY;Stade de Florimont;stade;Terrain de football B;terrain;1;extérieur
+638;LANCY;Stade de Florimont;stade;Terrain de football C;terrain;1;extérieur
+639;LANCY;Stade de Florimont;stade;Installations d'athlétisme;terrain;1;extérieur
+640;LANCY;Stade de Florimont;stade;Terrain de basketball et de volleyball;terrain;1;extérieur
+641;LANCY;Stand de tir de Saint-Georges;stand;Stand de tir;stand;1;extérieur et intérieur
+642;LANCY;TC Lancy Fraisiers;court;Courts de tennis;court;2;extérieur
+643;LANCY;TC Lancy Fraisiers;court;Courts de tennis;court;3;extérieur
+644;GENEVE;Ecole du XXXI-Décembre;zone de sport;Salle de gymnastique;salle;1;intérieur
+645;GENEVE;Ecole du XXXI-Décembre;zone de sport;Mini terrain de football;terrain;1;couvert
+646;GENEVE;Ecole des Minoteries;zone de sport;Salle de rythmique;salle;1;intérieur
+647;GENEVE;Ecole des Minoteries;zone de sport;Mini terrain de football;terrain;1;extérieur
+648;GENEVE;Zone de sport de la place Chateaubriand;zone de sport;Skatepark;terrain;1;extérieur
+649;GENEVE;Zone de sport de la place Chateaubriand;zone de sport;Mini terrain de basket;terrain;1;extérieur
+650;GENEVE;Zone de sport de la place Chateaubriand;zone de sport;Mini terrain de football;terrain;1;extérieur
+651;GENEVE;Zone de sport de la place Chateaubriand;zone de sport;Fitness urbain;terrain;1;extérieur
+652;GENEVE;Zone de sport de la place Chateaubriand;zone de sport;Tables de ping pong;terrain;2;extérieur
+653;GENEVE;Parc de Vermont;zone de sport;Fitness urbain;terrain;1;extérieur
+654;GENEVE;Parc Trembley;zone de sport;Fitness urbain;terrain;1;extérieur
+655;GENEVE;Parc des Franchises;zone de sport;Skatepark;terrain;1;extérieur
+656;GENEVE;Parc des Franchises;zone de sport;Fitness urbain;terrain;1;extérieur
+657;GENEVE;Parc Geisendorf;zone de sport;Fitness urbain;terrain;1;extérieur
+658;GENEVE;Voies CFF couvertes de Saint-Jean;zone de sport;Fitness urbain;terrain;1;extérieur
+659;GENEVE;Zone de sport du quai Ernest-Ansermet;zone de sport;Fitness urbain;terrain;1;extérieur
+660;GENEVE;Parc Bertrand;zone de sport;Fitness urbain;terrain;1;extérieur
+661;GENEVE;Parc Bertrand;zone de sport;Mini terrain de football;terrain;1;extérieur
+662;GENEVE;Parc des Acacias;zone de sport;Fitness urbain;terrain;1;extérieur
+663;GENEVE;Parc des Acacias;zone de sport;Tables de ping pong;terrain;2;extérieur
+664;GENEVE;Parc des Acacias;zone de sport;Boulodrome;terrain;2;extérieur
+665;GENTHOD;Creux-de-Genthod;port et plage;Port;aquatique;1;extérieur
+666;GENTHOD;Creux-de-Genthod;port et plage;Plage;aquatique;1;extérieur
+667;GENTHOD;Creux-de-Genthod;port et plage;Boulodrome;terrain;1;extérieur
+668;GENTHOD;Ecole de Genthod;zone de sport;Salle de gymnastique;salle;1;intérieur
+669;GENTHOD;Ecole de Genthod;zone de sport;Terrain de basket;terrain;1;extérieur
+670;GENTHOD;Ecole de Genthod;zone de sport;Mini terrain de foot;terrain;1;extérieur
+671;GENTHOD;Ecole de Genthod;zone de sport;Tables de ping pong;terrain;2;extérieur
+672;GENTHOD;TC Genthod;court;Courts de tennis;court;3;extérieur
+673;GENTHOD;Bains du Saugy;port et plage;Ponton et bassin;aquatique;1;extérieur
+674;GENTHOD;Bains du Saugy;port et plage;Racks à bateau;aquatique;1;extérieur
+675;GRAND-SACONNEX;Piscine du Grand-Saconnex;Piscine;Piscine;piscine;1;intérieur
+676;GRAND-SACONNEX;Parc La Tour;zone de sport;Fitness urbain;terrain;1;extérieur
+677;GRAND-SACONNEX;Campagne des Maronniers;zone de sport;Mini terrain de foot;terrain;1;extérieur
+678;GRAND-SACONNEX;Ecole La Tour;zone de sport;Salle de gymnastique;salle;1;intérieur
+679;GRAND-SACONNEX;Ecole La Tour;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+680;GRAND-SACONNEX;Ecole La Tour;zone de sport;Salle de rythmique;salle;1;intérieur
+681;GRAND-SACONNEX;Ecole La Tour;zone de sport;Terrains de basket;terrain;2;extérieur
+682;GRAND-SACONNEX;Ecole Grand-Saconnex-Place;zone de sport;Salle de gymnastique;salle;1;intérieur
+683;GRAND-SACONNEX;Ecole Grand-Saconnex-Place;zone de sport;Terrain de basket;terrain;1;extérieur
+684;GRAND-SACONNEX;Ecole Grand-Saconnex-Place;zone de sport;Mini terrain de foot;terrain;1;extérieur
+685;GRAND-SACONNEX;Ecole Grand-Saconnex-Place;zone de sport;Installation d'athlétisme;terrain;1;extérieur
+686;GRAND-SACONNEX;Ecole Grand-Saconnex-Place;zone de sport;Terrains de basket;terrain;2;extérieur
+687;GRAND-SACONNEX;Centre sportif du Blanché;centre sportif;Boulodrome intérieur;terrain;5;intérieur
+688;GRAND-SACONNEX;Centre sportif du Blanché;centre sportif;Courts de tennis;terrain;5;extérieur
+689;GRAND-SACONNEX;Centre sportif du Blanché;centre sportif;Terrain de football Blanché 1;terrain;1;extérieur
+690;GRAND-SACONNEX;Centre sportif du Blanché;centre sportif;Terrain de football Blanché 2;terrain;1;extérieur
+691;GRAND-SACONNEX;Centre sportif du Blanché;centre sportif;Terrain de football Blanché 3;terrain;1;extérieur
+692;GRAND-SACONNEX;Centre sportif du Blanché;centre sportif;Boulodrome extérieur;terrain;7;intérieur
+693;GRAND-SACONNEX;Salle du Pommier;salle;Salle du Pommier;salle;1;intérieur
+694;GRAND-SACONNEX;Espace Pom;salle;Salle de judo 1;salle;1;intérieur
+695;GRAND-SACONNEX;Espace Pom;salle;Salle de judo 2;salle;1;intérieur
+696;GRAND-SACONNEX;Ecole Grand-Saconnex-Village;zone de sport;Salle de gymnastique et de rythmique;salle;1;intérieur
+697;GRAND-SACONNEX;Parc Sarasin;zone de sport;Parcours vita;promenades;1;extérieur
+698;GRAND-SACONNEX;Parc Sarasin;zone de sport;Parcours de disc-golf;terrain;1;extérieur
+699;GRAND-SACONNEX;Parc Sarasin;zone de sport;Tables de ping pong;terrain;3;extérieur
+700;GRAND-SACONNEX;Parc Sarasin;zone de sport;Terrains de beach-volley;terrain;3;extérieur
+701;GRAND-SACONNEX;Parc Sarasin;zone de sport;Boulodrome;terrain;6;extérieur
+702;GRAND-SACONNEX;Parc Sarasin;zone de sport;Mini terrains de football;terrain;2;extérieur
+703;GRAND-SACONNEX;Parc Sarasin;zone de sport;Skatepark;terrain;1;extérieur
+704;GRAND-SACONNEX;Campagne du Château;Patinoire;Patinoire saisonnière;patinoire;1;extérieur
+705;GY;Ecole de Gy;zone de sport;Salle de rythmique;salle;1;intérieur
+706;GY;Parcours sportif Gy-Jussy;parcours sportif;Parcours sportif;promenades;1;extérieur
+707;GY;Manège de Beaupré;Manège;Ferme et poney club;Manège;1;extérieur et intérieur
+708;GY;Parc communal de Gy;zone de sport;Terrain de football;terrain;1;extérieur
+709;GY;Parc communal de Gy;zone de sport;Boulodrome;terrain;2;extérieur
+710;HERMANCE;Port des Mouches;port;Port;aquatique;1;extérieur
+711;HERMANCE;Salle communale;salle;Salle communale;salle;1;intérieur
+712;HERMANCE;Plage d'Hermance;plage;Plage;aquatique;1;extérieur
+713;HERMANCE;Plage d'Hermance;plage;Boulodrome;terrain;3;extérieur
+714;HERMANCE;Terrain de football des Tattes;terrain;Terrain de football;terrain;1;extérieur
+715;HERMANCE;Stade Marius Berthet;terrain;Terrain de rugby;terrain;1;extérieur
+716;HERMANCE;TC Hermance;court;Courts de tennis;court;2;extérieur
+717;HERMANCE;TC Hermance;court;Mini court;court;1;extérieur
+718;HERMANCE;Port d'Hermance;port;Port;aquatique;1;extérieur
+719;HERMANCE;Ecole d'Hermance;zone de sport;Terrain de basket;terrain;1;extérieur
+720;HERMANCE;Ecole d'Hermance;zone de sport;Salle de rythmique;salle;1;intérieur
+721;JUSSY;HEPIA Lullier;zone de sport;Boulodrome;terrain;2;extérieur
+722;JUSSY;HEPIA Lullier;zone de sport;Terrain de football;terrain;1;extérieur
+723;JUSSY;HEPIA Lullier;zone de sport;Terrain de beach-volley;terrain;1;extérieur
+724;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Salle de gymnastique;salle;1;intérieur
+725;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Terrains de football;terrain;2;extérieur
+726;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Skatepark;terrain;1;extérieur
+727;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Terrain de basket;terrain;1;extérieur
+728;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Courts de tennis;court;2;extérieur
+729;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Installation d'athlétisme;terrain;1;extérieur
+730;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Mini terrain de foot;terrain;1;extérieur
+731;JUSSY;Centre sportif et scolaire de Jussy;centre sportif;Salle de musculation;salle;1;intérieur
+732;GENEVE;Ecole Liotard;zone de sport;Terrain de basket;terrain;1;extérieur
+733;GENEVE;Ecole Liotard;zone de sport;Salle de rythmique II;salle;1;intérieur
+734;GENEVE;Ecole Liotard;zone de sport;Dojo;salle;1;intérieur
+735;GENEVE;Ecole Liotard;zone de sport;Salle de tennis de table;salle;1;intérieur
+736;GENEVE;CO de l'Aubépine;zone de sport;Terrains de basket / tennis;terrain;2;extérieur
+737;GENEVE;CO de l'Aubépine;zone de sport;Pistes extérieures;terrain;1;extérieur
+738;GENEVE;CO de l'Aubépine;zone de sport;Salles de gymnastique;salle;3;intérieur
+739;GENEVE;Cité Universitaire;zone de sport;Terrains de beach-volley;terrain;2;extérieur
+740;GENEVE;Cité Universitaire;zone de sport;Courts de squash;court;3;intérieur
+741;GENEVE;Cité Universitaire;zone de sport;Salle de gymnastique;salle;1;intérieur
+742;GENEVE;Cité Universitaire;zone de sport;Courts de tennis;court;4;extérieur
+743;GENEVE;CO de Budé;zone de sport;Salle de gymnastique;salle;1;intérieur
+744;GENEVE;CO de Budé;zone de sport;Salles de gymnastique;salle;2;intérieur
+745;GENEVE;CO de Cayla;zone de sport;Terrains extérieurs;terrain;1;extérieur
+746;GENEVE;CO de Cayla;zone de sport;Pistes extérieures;terrain;1;extérieur
+747;GENEVE;CO de Cayla;zone de sport;Salles de gymnastique;salle;3;intérieur
+748;GENEVE;CO des Coudriers;zone de sport;Terrains de basket;terrain;3;extérieur
+749;GENEVE;CO des Coudriers;zone de sport;Salle de gymnastique;salle;1;intérieur
+750;GENEVE;CO des Coudriers;zone de sport;Salle de gymnastique;salle;2;intérieur
+751;GENEVE;CO de la Florence;zone de sport;Salle de gymnastique I;salle;1;intérieur
+752;GENEVE;CO de la Florence;zone de sport;Terrain de basket;terrain;1;extérieur
+753;GENEVE;CO de la Florence;zone de sport;Salles de gymnastique II et III;salle;2;intérieur
+754;GENEVE;CO de Sécheron;zone de sport;Terrain extérieur I;terrain;1;extérieur
+755;GENEVE;CO de Sécheron;zone de sport;Terrain extérieur II;terrain;1;extérieur
+756;GENEVE;CO de Sécheron;zone de sport;Terrain extérieur III;terrain;1;extérieur
+757;GENEVE;CO de Sécheron;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+758;GENEVE;CO de Sécheron;zone de sport;Salle de gymnastique;salle;3;intérieur
+759;GENEVE;Collège Calvin;zone de sport;Salles de gymnastique;salle;3;intérieur
+760;GENEVE;Collège Calvin;zone de sport;Salle de judo;salle;1;intérieur
+761;GENEVE;Collège Calvin;zone de sport;Salle de musculation;salle;1;intérieur
+762;GENEVE;Collège Calvin;zone de sport;Salle de tennis de table;salle;1;intérieur
+763;GENEVE;Collège Voltaire;zone de sport;Salle de gymnastique;salle;1;intérieur
+764;GENEVE;HEPIA Prairie;zone de sport;Salles de gymnastique;salle;2;intérieur
+765;GENEVE;HEPIA Prairie;zone de sport;Salle de gymnastique;salle;1;intérieur
+766;GENEVE;Ecole des Contamines;zone de sport;Piscine des Contamines;piscine;1;intérieur
+767;GENEVE;Ecole des Contamines;zone de sport;Salles de rythmique;salle;2;intérieur
+768;GENEVE;Ecole des Contamines;zone de sport;Mini terrain de football;terrain;1;extérieur
+769;GENEVE;Ecole des Contamines;zone de sport;Terrain de basket;terrain;1;extérieur
+770;GENEVE;Ecole des Contamines;zone de sport;Salle de gymnastique;salle;1;intérieur
+771;GENEVE;CEC Nicolas-Bouvier;zone de sport;Salles de gymnastique;salle;3;intérieur
+772;GENEVE;ECG Henry-Dunant;zone de sport;Salle de gymnastique;salle;1;intérieur
+773;GENEVE;ECG Henry-Dunant;zone de sport;Salle de tennis de table;terrain;1;extérieur
+774;GENEVE;ECG Henry-Dunant;zone de sport;Terrains extérieurs;terrain;3;extérieur
+775;GENEVE;ECG Henry-Dunant;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+776;GENEVE;CEC Emilie-Gourd;zone de sport;Salle de gymnastique;salle;4;intérieur
+777;GENEVE;CEC Emilie-Gourd;zone de sport;Piste d'athlétisme;terrain;1;extérieur
+778;GENEVE;CEC Emilie-Gourd;zone de sport;Terrains de basket (rte de Malagnou);terrain;2;extérieur
+779;GENEVE;Collège Rousseau;zone de sport;Salles de gymnastique;salle;3;intérieur
+780;GENEVE;Collège Rousseau;zone de sport;Salle de musculation;salle;1;intérieur
+781;GENEVE;Collège Rousseau;zone de sport;Courts de tennis;court;4;extérieur
+782;GENEVE;Collège Rousseau;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+783;GENEVE;Collège Sismondi;zone de sport;Salle de gymnastique;salle;1;intérieur
+784;GENEVE;Collège Sismondi;zone de sport;Salles de gymnastique;salle;2;intérieur
+785;GENEVE;Salles de gymnastique - Stand;salle;Salle de gymnastique 1;salle;1;intérieur
+786;GENEVE;Salles de gymnastique - Stand;salle;Salle de gymnastique 2;salle;1;intérieur
+787;GENEVE;Stand de tir à l'arc;stand;Stand de tir à l'arc;stand;1;extérieur
+788;GENEVE;Ecole de Pâquis-Centre;zone de sport;Piscine Pâquis-Centre;piscine;1;intérieur
+789;GENEVE;Ecole de Pâquis-Centre;zone de sport;Salle de rythmique I;salle;1;intérieur
+790;GENEVE;Ecole de Pâquis-Centre;zone de sport;Salle de rythmique II;salle;1;intérieur
+791;GENEVE;Ecole de Pâquis-Centre;zone de sport;Salle de rythmique III - Aula;salle;1;intérieur
+792;GENEVE;Ecole de Pâquis-Centre;zone de sport;Mini terrain de football;terrain;1;extérieur
+793;GENEVE;Ecole de Pâquis-Centre;zone de sport;Mini terrain de basket;terrain;1;extérieur
+794;GENEVE;Ecole de Pâquis-Centre;zone de sport;Mini terrains de football II;terrain;2;extérieur
+795;GENEVE;Ecole de Pâquis-Centre;zone de sport;Salle de gymnastique I;salle;1;intérieur
+796;GENEVE;Ecole de Pâquis-Centre;zone de sport;Salle de gymnastique II;salle;1;intérieur
+797;GENEVE;CEC André Chavanne;zone de sport;Salles de gymnastique;salle;4;intérieur
+798;GENEVE;CEC André Chavanne;zone de sport;Terrains extérieurs;terrain;1;extérieur
+799;GENEVE;CEC André Chavanne;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+800;GENEVE;CEC André Chavanne;zone de sport;Mur d'escalade;mur;1;intérieur
+801;GENEVE;Salle de boxe de la rue de Bâle;salle;Salle de boxe;salle;1;intérieur
+802;GENEVE;Boulodrome de Plainpalais;terrain;Boulodrome I;terrain;15;extérieur
+803;GENEVE;Boulodrome de Plainpalais;terrain;Boulodrome II;terrain;5;extérieur
+804;GENEVE;Skatepark de Plainpalais;terrain;Skatepark;terrain;1;extérieur
+805;GENEVE;CO Montbrillant;zone de sport;Salles de gymnastique;salle;3;intérieur
+806;GENEVE;CO Montbrillant;zone de sport;Terrains de basket;terrain;2;extérieur
+807;GENEVE;CO Montbrillant;zone de sport;Pistes extérieures;terrain;1;extérieur
+808;GENEVE;Stade du Bois-de-la-Bâtie;terrain;Terrain de football A;terrain;1;extérieur
+809;GENEVE;Stade du Bois-de-la-Bâtie;terrain;Terrain de football B;terrain;1;extérieur
+810;GENEVE;Stade du Bois-de-la-Bâtie;terrain;Terrain de football C;terrain;1;extérieur
+811;GENEVE;Parc des Cropettes;zone de sport;Boulodrome;terrain;20;extérieur
+812;GENEVE;Quai du Seujet - Sous-Terre;plage;Bains du Rhône;aquatique;1;extérieur
+813;GENEVE;Baby-Plage;plage;Baby-Plage;aquatique;1;extérieur
+814;GENEVE;Port des Pâquis;port;Port;aquatique;1;extérieur
+815;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Piste de cross;promenades;1;extérieur
+816;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Salle de sports B (omnisports);salle;1;intérieur
+817;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Terrains de football Champel 1et 2;terrain;2;extérieur
+818;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Terrain de football Champel 3;terrain;1;extérieur
+819;GENEVE;Centre sportif du Bout-du-Monde;centre sportif;Terrain de football Champel 4;terrain;1;extérieur
+820;ONEX;Ecole des Tattes;zone de sport;Salle de gymnastique;salle;1;intérieur
+821;ONEX;Ecole des Tattes;zone de sport;Salle de rythmique;salle;1;intérieur
+822;ONEX;Ecole des Tattes;zone de sport;Terrain de basketball;terrain;1;extérieur
+823;ONEX;Ecole des Tattes;zone de sport;Terrain de football;terrain;1;extérieur
+824;ONEX;Ecole des Tattes;zone de sport;Table de ping-pong;terrain;2;extérieur
+825;ONEX;Centre sportif des Evaux;centre sportif;Parcours de jogging;promenades;1;extérieur
+826;ONEX;Centre sportif des Evaux;centre sportif;Terrains de football (T1 et T2);terrain;2;extérieur
+827;ONEX;Centre sportif des Evaux;centre sportif;Terrain de football (T3);terrain;1;extérieur
+828;ONEX;Centre sportif des Evaux;centre sportif;Terrain de football (T4);terrain;1;extérieur
+829;ONEX;Centre sportif des Evaux;centre sportif;Terrain de football (T5);terrain;1;extérieur
+830;ONEX;Centre sportif des Evaux;centre sportif;Terrain de football (synthétique);terrain;1;extérieur
+831;ONEX;Centre sportif des Evaux;centre sportif;Stade d'athlétisme;stade;1;extérieur
+832;ONEX;Centre sportif des Evaux;centre sportif;Courts de tennis;court;6;extérieur
+833;ONEX;Centre sportif des Evaux;centre sportif;Boulodrome;terrain;7;extérieur
+834;ONEX;Centre sportif des Evaux;centre sportif;Parcours de disc-golf;terrain;1;extérieur
+835;ONEX;Centre sportif des Evaux;centre sportif;Tables de ping pong;terrain;4;extérieur
+836;ONEX;Centre sportif des Evaux;centre sportif;Terrains de beach-volley;terrain;4;extérieur
+837;ONEX;Centre sportif des Evaux;centre sportif;Skatepark;terrain;1;extérieur
+838;ONEX;Centre sportif des Evaux;centre sportif;Terrain de football A;terrain;1;extérieur
+839;ONEX;Centre sportif des Evaux;centre sportif;Terrain de football B;terrain;1;extérieur
+840;ONEX;Centre sportif des Evaux;centre sportif;Piste de BMX;terrain;1;extérieur
+841;PERLY-CERTOUX;Ecole de Perly-Certoux;zone de sport;Piscine de Perly;piscine;1;intérieur
+842;PERLY-CERTOUX;Ecole de Perly-Certoux;zone de sport;Salle de gymnastique polyvalente de Perly;salle;1;intérieur
+843;PERLY-CERTOUX;Ecole de Perly-Certoux;zone de sport;Salle omnisports;salle;1;intérieur
+844;PERLY-CERTOUX;Ecole de Perly-Certoux;zone de sport;Terrain de basket;terrain;1;extérieur
+845;PERLY-CERTOUX;Ecole de Perly-Certoux;zone de sport;Salle de rythmique;salle;1;intérieur
+846;PERLY-CERTOUX;TC Perly;court;Courts de tennis;court;3;extérieur
+847;PERLY-CERTOUX;TC Perly;court;Mur d'entraînement;court;1;extérieur
+848;PERLY-CERTOUX;Stade de Perly;terrain;Patinoire saisonnière;patinoire;1;extérieur
+849;LANCY;TC Lancy Fraisiers;court;Court de tennis;terrain;1;extérieur
+850;LANCY;TC Lancy Fraisiers;court;Court de mini-tennis;court;1;extérieur
+851;LANCY;TC Lancy;court;Courts de tennis;court;2;extérieur et intérieur
+852;LANCY;TC Lancy;court;Courts de tennis;court;4;extérieur
+853;LANCY;TC Lancy;court;Court de mini-tennis;court;1;intérieur
+854;LANCY;Terrains de football des Fraisiers;terrain;Terrain de football des Fraisiers 1;terrain;1;extérieur
+855;LANCY;Terrains de football des Fraisiers;terrain;Terrains de football des Fraisiers 2;terrain;1;extérieur
+856;LANCY;CFPT - Mécatronique industrielle et automobile;zone de sport;Mur d'escalade;mur;1;couvert
+857;LANCY;CFPT - Mécatronique industrielle et automobile;zone de sport;Salle de gymnastique;salle;1;intérieur
+858;LANCY;CFPT - Mécatronique industrielle et automobile;zone de sport;Salle de musculation;salle;1;intérieur
+859;LANCY;Stade de Marignac;terrain;Terrain de football de Marignac;terrain;1;extérieur
+860;LANCY;Tir au plateau d'argile;stand;Tir au plateau;stand;1;extérieur
+861;LANCY;Ecole de Cérésole;zone de sport;Salle de rythmique;salle;1;intérieur
+862;LANCY;Stade de la Praille;stade;Terrain de football;terrain;1;extérieur
+863;LANCY;Bowling du centre commercial de la Praille;salle;Bowling international de Genève;salle;36;intérieur
+864;LANCY;Boulodrome Euroboules;terrain;Boulodrome Jules Bugnon;terrain;6;extérieur
+865;LANCY;Parc Louis-Bertrand;terrain;Terrain multisports;terrain;1;extérieur
+866;LANCY;Skatepark de la Praille;zone de sport;Skatepark;terrain;1;couvert
+867;LANCY;Ecole du Bachet de Pesay;zone de sport;Piscine intérieure;piscine;1;intérieur
+868;LANCY;Ecole du Bachet de Pesay;zone de sport;Salle de rythmique;salle;1;intérieur
+869;LANCY;Ecole du Bachet de Pesay;zone de sport;Salle de judo (Dojo);salle;1;intérieur
+870;LANCY;Ecole du Bachet de Pesay;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+871;LANCY;Ecole de la Caroline;zone de sport;Piscine intérieure;piscine;1;intérieur
+872;LANCY;Ecole de la Caroline;zone de sport;Salle de rythmique;salle;1;intérieur
+873;LANCY;Ecole de la Caroline;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+874;LANCY;Ecole de la Caroline;zone de sport;Salle de gymnastique;salle;1;intérieur
+875;LANCY;Ecole de la Caroline;zone de sport;Salle de judo;salle;1;intérieur
+876;LANCY;Piscine de Lancy Marignac;centre sportif;Piscine;piscine;1;extérieur
+877;LANCY;Piscine de Lancy Marignac;centre sportif;Terrain de street workout;terrain;1;extérieur
+878;LANCY;Piscine de Lancy Marignac;centre sportif;Terrain de beach-volley;terrain;1;extérieur
+879;LANCY;Piscine de Lancy Marignac;centre sportif;Terrain de beach foot;terrain;1;extérieur
+880;LANCY;Ecole En Sauvy;zone de sport;Piscine En Sauvy;piscine;1;intérieur
+881;LANCY;Ecole En Sauvy;zone de sport;Salle de rythmique 2;salle;1;intérieur
+882;LANCY;Ecole En Sauvy;zone de sport;Salle de rythmique 1;salle;1;intérieur
+883;LANCY;Ecole En Sauvy;zone de sport;Terrain de basketball;terrain;1;extérieur
+884;LANCY;Ecole En Sauvy;zone de sport;Salle de gymnastique;salle;1;intérieur
+885;LANCY;Ecole En Sauvy;zone de sport;Salle de tennis de table;salle;1;intérieur
+886;LANCY;CFPT - informatique horlogie et électronique;zone de sport;Salle de gymnastique;salle;1;intérieur
+887;LANCY;CFPT - informatique horlogie et électronique;zone de sport;Salle de musculation;salle;1;intérieur
+888;LANCY;Collège de Saussure;zone de sport;Salles de gymnastique;salle;4;intérieur
+889;LANCY;Collège de Saussure;zone de sport;Salle de musculation;salle;1;intérieur
+890;LANCY;Collège de Saussure;zone de sport;Terrains de sport extérieurs;terrain;1;extérieur
+891;LANCY;Collège de Saussure;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+892;LANCY;CO des Grandes-Communes;zone de sport;Salle de gymnastique;salle;3;intérieur
+893;LANCY;CO des Grandes-Communes;zone de sport;Terrains de basket;terrain;2;extérieur
+894;LANCY;CO des Grandes-Communes;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+895;MEINIER;Les Hauts de Corsinge;Manège;Les Hauts de Corsinge;Manège;1;extérieur et intérieur
+896;MEINIER;Ecuries du Chambet;Manège;Ecuries du Chambet;Manège;1;extérieur et intérieur
+897;MEINIER;Ecole de Meinier;zone de sport;Salle  de gymnastique;salle;1;intérieur
+898;MEINIER;Salle communale;salle;Boulodrome;salle;2;intérieur
+899;MEINIER;Ecole de Meinier;zone de sport;Salle de rythmique;salle;1;intérieur
+900;MEINIER;Centre sportif de Rouelbeau;zone de sport;Terrain de football B;terrain;1;extérieur
+901;MEINIER;Centre sportif de Rouelbeau;zone de sport;Terrain de football C;terrain;1;extérieur
+902;MEINIER;Centre sportif de Rouelbeau;zone de sport;Boulodrome;terrain;10;extérieur
+903;MEINIER;Centre sportif de Rouelbeau;zone de sport;Terrain de basketball;terrain;1;extérieur
+904;MEINIER;Centre sportif de Rouelbeau;zone de sport;Terrain de Beachvolley;terrain;1;extérieur
+905;MEINIER;Centre sportif de Rouelbeau;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+906;MEINIER;Centre sportif de Rouelbeau;zone de sport;Courts de tennis;court;3;extérieur
+907;MEINIER;Centre sportif de Rouelbeau;zone de sport;Courts de tennis;court;2;extérieur
+908;MEINIER;Centre sportif de Rouelbeau;zone de sport;Terrain de football A;terrain;1;extérieur
+909;MEYRIN;Centre sportif de Cointrin;centre sportif;Piscine;piscine;1;extérieur
+910;MEYRIN;Centre sportif de Cointrin;centre sportif;Courts de tennis;court;2;extérieur
+911;MEYRIN;Ecole de Cointrin;zone de sport;Salle de gymnastique;salle;1;intérieur
+912;MEYRIN;Ecole de Meyrin-Village;zone de sport;Salle de gymnastique de Meyrin-Village;salle;1;intérieur
+913;MEYRIN;Ecole de Meyrin-Village;zone de sport;Salle de karaté;salle;1;intérieur
+914;MEYRIN;Ecole de Meyrin-Village;zone de sport;Salle de rythmique;salle;1;intérieur
+915;MEYRIN;Ecole de Meyrin-Village;zone de sport;Terrain multisports;terrain;1;extérieur
+916;MEYRIN;TC Mategnin;court;Courts de tennis;court;3;extérieur
+917;MEYRIN;Terrain de football de Vaudagne;terrain;Terrain de football V1;terrain;1;extérieur
+918;MEYRIN;Terrain de football de Vaudagne;terrain;Terrain de football V2;terrain;1;extérieur
+919;MEYRIN;Terrain de football de Vaudagne;terrain;Terrain multisports clôturé;terrain;1;extérieur
+920;MEYRIN;Parcours mesurés;parcours sportif;Parcours mesuré 1;promenades;1;extérieur
+921;MEYRIN;Parcours mesurés;parcours sportif;Parcours mesuré 2;promenades;1;extérieur
+922;MEYRIN;Parcours mesurés;parcours sportif;Parcours mesuré 3;promenades;1;extérieur
+923;MEYRIN;Centre sportif des Vergers;centre sportif;Patinoire extérieure;patinoire;1;extérieur
+924;MEYRIN;Centre sportif des Vergers;centre sportif;Patinoire couverte;patinoire;1;intérieur
+925;MEYRIN;Centre sportif des Vergers;centre sportif;Piscine de Meyrin;piscine;1;extérieur
+926;MEYRIN;Centre sportif des Vergers;centre sportif;Terrain de beach-volley;terrain;2;extérieur
+927;MEYRIN;Centre sportif des Vergers;centre sportif;Table de ping-pong;terrain;3;extérieur
+928;MEYRIN;Boulodrome des Arbères;zone de sport;Pistes de pétanques;terrain;9;intérieur
+929;MEYRIN;Boulodrome des Arbères;zone de sport;Pistes de longue;terrain;2;intérieur
+930;MEYRIN;Boulodrome des Arbères;zone de sport;Pistes de pétanque;terrain;6;extérieur
+931;MEYRIN;Ecole De-Livron;zone de sport;Salle de tennis de table;salle;1;intérieur
+932;MEYRIN;Ecole De-Livron;zone de sport;Salle de gymnastique;salle;1;intérieur
+933;MEYRIN;Ecole De-Livron;zone de sport;Salle de rythmique;salle;1;intérieur
+934;MEYRIN;Stade d'athlétisme des Champs-Fréchets;zone de sport;Terrain de basketball;terrain;2;extérieur
+935;MEYRIN;Stade d'athlétisme des Champs-Fréchets;zone de sport;Terrain de football;terrain;1;extérieur
+936;MEYRIN;Stade d'athlétisme des Champs-Fréchets;zone de sport;Terrain de volleyball;terrain;1;extérieur
+937;MEYRIN;Stade d'athlétisme des Champs-Fréchets;zone de sport;Installations d'athlétisme;stade;1;extérieur
+938;MEYRIN;Piscine De Livron;Piscine;Piscine de Livron;piscine;1;intérieur
+939;MEYRIN;Ecole de Monthoux;salle;Salle de rythmique;salle;1;intérieur
+940;MEYRIN;Dojo Shinbudo Cointrin;salle;Dojo;salle;1;intérieur
+941;MEYRIN;Boulodrome Campagne-Charnaux;terrain;Boulodrome;terrain;4;extérieur
+942;MEYRIN;;terrain;;terrain;1;intérieur
+943;MEYRIN;Skatepark de Meyrin;terrain;Skatepark de Meyrin;terrain;1;extérieur
+944;MEYRIN;Piste d'automodélisme de Meyrin;zone de sport;Piste d'automodélisme;terrain;1;extérieur
+945;MEYRIN;Ecole des Champs-Fréchets;zone de sport;Piscine;piscine;1;intérieur
+946;MEYRIN;Ecole des Champs-Fréchets;zone de sport;Salle de gymnastique (grande);salle;1;intérieur
+947;MEYRIN;Ecole des Champs-Fréchets;zone de sport;Salle de rythmique;salle;1;intérieur
+948;MEYRIN;Stade des Arbères;centre sportif;Terrain de football (B);terrain;1;extérieur
+949;MEYRIN;Stade des Arbères;centre sportif;Terrain de football (C);terrain;1;extérieur
+950;MEYRIN;Stade des Arbères;centre sportif;Terrain de football (D);terrain;1;extérieur
+951;MEYRIN;Stade des Arbères;centre sportif;Terrain de football (A);terrain;1;extérieur
+952;MEYRIN;Stade des Arbères;centre sportif;Terrain de rugby (G);terrain;1;extérieur
+953;MEYRIN;Stade des Arbères;centre sportif;Terrain de football (F);terrain;1;extérieur
+954;MEYRIN;Manège de Meyrin;Manège;Manège;Manège;1;extérieur et intérieur
+955;MEYRIN;Centre sportif de Maisonnex;centre sportif;Piscine;piscine;1;extérieur
+956;MEYRIN;Centre sportif de Maisonnex;centre sportif;Courts de tennis;court;7;extérieur
+957;MEYRIN;Centre sportif de Maisonnex;centre sportif;Courts de tennis;court;4;intérieur
+958;MEYRIN;Centre sportif de Maisonnex;centre sportif;Courts de squash;court;4;intérieur
+959;MEYRIN;Centre sportif de Maisonnex;centre sportif;Mini-Golf;terrain;1;extérieur
+960;MEYRIN;CO de la Golette;zone de sport;Terrain de football;terrain;1;extérieur
+961;MEYRIN;CO de la Golette;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+962;MEYRIN;CO de la Golette;zone de sport;Terrain de basketball;terrain;1;extérieur
+963;MEYRIN;CO de la Golette;zone de sport;Salle de gymnastique;salle;3;intérieur
+964;MEYRIN;Ecole des Boudines;zone de sport;Salle de rythmique;salle;1;intérieur
+965;MEYRIN;Ecole des Boudines;zone de sport;Terrain multisport clôturé;terrain;1;extérieur
+966;MEYRIN;Ecole des Boudines;zone de sport;Terrain de football;terrain;1;extérieur
+967;MEYRIN;Ecole des Boudines;zone de sport;Salle de gymnastique 1;salle;1;intérieur
+968;MEYRIN;Ecole des Boudines;zone de sport;Salle de gymnastique 2;salle;1;intérieur
+969;MEYRIN;Ecole Bellavista;zone de sport;Salle de gymnastique;salle;1;intérieur
+970;MEYRIN;Ecole Bellavista;zone de sport;Salle d'arts martiaux 1;salle;1;intérieur
+971;MEYRIN;Ecole Bellavista;zone de sport;Salle de musculation;salle;1;intérieur
+972;MEYRIN;Ecole Bellavista;zone de sport;Salle de rythmique;salle;1;intérieur
+973;MEYRIN;Ecole Bellavista;zone de sport;Salle d'arts martiaux 2;salle;1;intérieur
+974;ONEX;Club Hippique de l'Eperon;Manège;Club Hippique de l'Eperon;Manège;1;extérieur
+975;ONEX;Stade municipal d'Onex;stade;Terrain de football B;terrain;1;extérieur
+976;ONEX;Stade municipal d'Onex;stade;Terrain de football A;terrain;1;extérieur
+977;ONEX;Stade municipal d'Onex;stade;Mini terrain de foot;terrain;1;extérieur
+978;ONEX;Stade municipal d'Onex;stade;Terrain polyvalent;terrain;1;extérieur
+979;ONEX;Boulodrome des Tattes;terrain;Terrains de pétanque;terrain;21;extérieur
+980;ONEX;Stade Jardin Robinson;stade;Terrain de football (junior);terrain;1;extérieur
+981;ONEX;Parcours Vita;parcours sportif;Parcours Vita d'Onex;promenades;1;extérieur
+982;ONEX;Ferme de la Gavotte;Manège;Manège de la Gavotte;Manège;1;extérieur
+983;ONEX;Shinbudo Onex;salle;Salle de judo 1;salle;1;intérieur
+984;ONEX;Shinbudo Onex;salle;Salle de judo 2;salle;1;intérieur
+985;ONEX;Ecole François-Chavaz;salle;Salle de rythmique;salle;1;intérieur
+986;ONEX;Ecole du Gros-Chêne;salle;Salle de rythmique;salle;1;intérieur
+987;ONEX;Ecole d'Onex-Village;salle;SalleHermes-Braillard;salle;1;intérieur
+988;ONEX;Ecole d'Onex-Village;salle;Table de ping-pong;terrain;1;extérieur
+989;ONEX;Ecole d'Onex-Parc;zone de sport;Piscine Onex-Parc;piscine;1;extérieur et intérieur
+990;ONEX;Ecole d'Onex-Parc;zone de sport;Salle de gymnastique 1;salle;1;intérieur
+991;ONEX;Ecole d'Onex-Parc;zone de sport;Salle de gymnastique 2;salle;1;intérieur
+992;ONEX;Ecole d'Onex-Parc;zone de sport;Table de ping-pong;salle;3;extérieur
+993;ONEX;Ecole d'Onex-Parc;zone de sport;Salle de rythmique;salle;1;intérieur
+994;ONEX;Ecole d'Onex-Parc;zone de sport;Terrain de basketball;terrain;1;extérieur
+995;ONEX;Ecole d'Onex-Parc;zone de sport;Terrain de football;terrain;2;extérieur
+996;ONEX;Ecole de Belle-Cour;salle;Salle de rythmique;salle;1;intérieur
+997;ONEX;Ecole de Belle-Cour;salle;Table de ping-pong;terrain;2;extérieur
+998;ONEX;Terrain multisports clôturé;terrain;Terrain multisports clôturé;terrain;1;extérieur
+999;ONEX;Parc du Gros-Chêne;terrain;Fitness urbain;terrain;1;extérieur
+1000;ONEX;Ecole du Bosson;zone de sport;Salle de rythmique;salle;2;intérieur
+1001;ONEX;Ecole du Bosson;zone de sport;Mini terrain de football I;terrain;1;extérieur
+1002;ONEX;Ecole du Bosson;zone de sport;Salle de gymnastique;salle;1;intérieur
+1003;ONEX;Ecole du Bosson;zone de sport;Terrain de football;terrain;1;extérieur
+1004;ONEX;Ecole du Bosson;zone de sport;Table de ping-pong;terrain;2;extérieur
+1005;ONEX;Ecole du Bosson;zone de sport;Salle de rythmique;salle;1;intérieur
+1006;ONEX;Ecole du Bosson;zone de sport;Salle de rythmique;salle;1;intérieur
+1007;ONEX;Ecole du Bosson;zone de sport;Salle de tennis de table;salle;1;intérieur
+1008;ONEX;Ecole du Bosson;zone de sport;Mini terrain de football II;terrain;1;extérieur
+1009;ONEX;Ecole du Bosson;zone de sport;Terrain de basket;terrain;1;extérieur
+1010;ONEX;CO du Marais;zone de sport;Salles de gymnastique;salle;3;intérieur
+1011;ONEX;CO du Marais;zone de sport;Salle de tennis de table;salle;1;intérieur
+1012;ONEX;CO du Marais;zone de sport;Stand de tir à l'arc;stand;1;intérieur
+1013;ONEX;Ecole des Racettes;zone de sport;Boulodrome;salle;5;intérieur
+1014;ONEX;Ecole des Racettes;zone de sport;Salle de gymnastique;salle;1;intérieur
+1015;ONEX;Ecole des Racettes;zone de sport;Stand de tir;stand;1;intérieur
+1016;ONEX;Ecole des Racettes;zone de sport;Salle de rythmique;salle;1;intérieur
+1017;ONEX;Ecole des Racettes;zone de sport;Table de ping-pong;terrain;1;extérieur
+1018;ONEX;TC Onex;court;Courts de tennis;court;4;extérieur
+1019;ONEX;TC Onex;court;Courts de tennis;court;2;extérieur
+1020;ONEX;TC Onex;court;Boulodrome;terrain;2;extérieur
+1021;ONEX;TC Onex;court;Table de ping-pong;terrain;1;extérieur
+1022;ONEX;Stade des Tattes;zone de sport;Terrain de football;terrain;1;extérieur
+1023;ONEX;Stade des Tattes;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+1024;ONEX;Stade des Tattes;zone de sport;Terrain de basketball;terrain;1;extérieur
+1025;SATIGNY;Centre sportif de Satigny;centre sportif;Terrain de football Satigny supérieur;terrain;1;extérieur
+1026;SATIGNY;Centre sportif de Satigny;centre sportif;Courts de tennis;court;4;extérieur
+1027;SATIGNY;Ecole Satigny Village;salle;Salle de judo;salle;1;intérieur
+1028;SATIGNY;Ecole Satigny Village;salle;Salle de ping-pong;salle;1;intérieur
+1029;SATIGNY;Ecole Satigny Village;salle;Salle de rythmique;salle;1;intérieur
+1030;SATIGNY;Ecole Satigny Village;salle;Salle de gymnastique;salle;1;intérieur
+1031;SATIGNY;Stand de tir de Satigny;stand;Stand de tir au petit calibre;terrain;1;extérieur
+1032;SATIGNY;Boulodrome;terrain;Boulodrome;terrain;1;extérieur
+1033;SORAL;TC Soral;court;Courts de tennis;court;2;extérieur
+1034;SORAL;TC Soral;court;Boulodrome;terrain;4;extérieur
+1035;SORAL;Ecole de Soral;zone de sport;Terrain de basketball;terrain;1;extérieur
+1036;SORAL;Ecole de Soral;zone de sport;Terrain de football;terrain;1;extérieur
+1037;SORAL;Ecole de Soral;zone de sport;Salle de rythmique;salle;1;intérieur
+1038;THONEX;Piscine de Thônex;Piscine;Piscine couverte;piscine;1;intérieur
+1039;THONEX;Piscine de Thônex;Piscine;Piscine extérieure;piscine;1;extérieur
+1040;THONEX;Parcours Vita;parcours sportif;Parcours sportif;promenades;1;intérieur
+1041;THONEX;Ecole de cirque -Théatre-Cirqule;terrain;Chapiteau;terrain;1;intérieur
+1042;THONEX;Ecole Adrien Jeandin;zone de sport;Salle de rythmique;salle;1;intérieur
+1043;THONEX;Ecole Adrien Jeandin;zone de sport;Salle de gymnastique;salle;1;intérieur
+1044;THONEX;Ecole Adrien Jeandin;zone de sport;Terrain de basketball;terrain;1;extérieur
+1045;THONEX;Ecole Adrien Jeandin;zone de sport;Terrain de football;terrain;1;extérieur
+1046;THONEX;CO du Foron;zone de sport;Terrains de basketball;terrain;3;extérieur
+1047;THONEX;CO du Foron;zone de sport;Tables de tennis de table;terrain;3;extérieur
+1048;THONEX;CO du Foron;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+1049;THONEX;CO du Foron;zone de sport;Salle de gymnastique;salle;3;intérieur
+1050;THONEX;Ecole de Marcelly;zone de sport;Salle de rythmique;salle;1;intérieur
+1051;THONEX;Ecole de Marcelly;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+1052;THONEX;Ecole de Marcelly;zone de sport;Salle de gymnastique;salle;1;intérieur
+1053;THONEX;Ecole de Pont-Bochet;zone de sport;Salle de rythmique;salle;1;intérieur
+1054;THONEX;Ecole de Pont-Bochet;zone de sport;Terrain de football;terrain;1;extérieur
+1055;VERNIER;Piscine du Lignon;Piscine;Piscine plein-air;piscine;1;extérieur
+1056;VERNIER;Piscine du Lignon;Piscine;Piscine couverte;piscine;1;intérieur
+1057;VERNIER;Piscine du Lignon;Piscine;Terrain multisports;terrain;1;extérieur
+1058;VERNIER;Piscine du Lignon;Piscine;Terrain de beach-volley;terrain;1;extérieur
+1059;VERNIER;Terrain de football des Avanchets;terrain;Terrain de football;terrain;1;extérieur
+1060;VERNIER;Helsana Trail;parcours sportif;Helsana Trail 1;promenades;1;extérieur
+1061;VERNIER;Helsana Trail;parcours sportif;Helsana Trail 2;promenades;1;extérieur
+1062;VERNIER;Helsana Trail;parcours sportif;Helsana Trail 3;promenades;1;extérieur
+1063;VERNIER;Helsana Trail;parcours sportif;Zürich parcours vita;promenades;1;extérieur
+1064;VERNIER;Minigolf;terrain;Minigolf;terrain;1;extérieur
+1065;VERNIER;Parc d'activités de Morglas;zone de sport;Skate park de Morglas;terrain;1;extérieur
+1066;VERNIER;Parc d'activités de Morglas;zone de sport;Circuit de modélisme;terrain;1;extérieur
+1067;VERNIER;Parc d'activités de Morglas;zone de sport;Terrain multisports;terrain;1;extérieur
+1068;VERNIER;Patinoire synthétique;Patinoire;Patinoire synthétique;patinoire;1;extérieur
+1069;VERNIER;Beach-volley Henri-Golay;terrain;Terrain de beach-volley;terrain;3;extérieur
+1070;VERNIER;Centre culturel et sportif des Libellules;salle;Salle d'arts martiaux et de boxe;salle;1;intérieur
+1071;VERNIER;Centre culturel et sportif des Libellules;salle;Salle de danse;salle;1;intérieur
+1072;VERNIER;Parc des Libellules;installation ponctuelle;Terrain multisports clôturé;terrain;1;extérieur
+1073;VERNIER;Parc des Libellules;zone de sport;Boulodrome;terrain;4;extérieur
+1074;VERNIER;Parc des Libellules;zone de sport;Terrain de beach-volley;terrain;1;extérieur
+1075;VERNIER;Parc des Libellules;zone de sport;Fitness urbain;terrain;1;extérieur
+1076;VERNIER;Zone de loisirs Au Moulin;zone de sport;Zone de baignade;court;1;extérieur
+1077;VERNIER;Zone de loisirs Au Moulin;zone de sport;Fitness urbain;court;1;extérieur
+1078;VERNIER;Ecole des Ranches;zone de sport;Piscine;piscine;1;intérieur
+1079;VERNIER;Ecole des Ranches;zone de sport;Salle de gymnastique;salle;1;intérieur
+1080;VERNIER;Ecole des Ranches;zone de sport;Salle de tennis de table;salle;1;intérieur
+1081;VERNIER;Ecole des Ranches;zone de sport;Salle de rythmique;salle;1;intérieur
+1082;VERNIER;Ecole des Ranches;zone de sport;Terrain de basketball;terrain;1;extérieur
+1083;VERNIER;Ecole des Ranches;zone de sport;Terrain de football;terrain;1;extérieur
+1084;THONEX;Ecole de Pont-Bochet;zone de sport;Terrain de basketball;terrain;1;extérieur
+1085;THONEX;Ecole de Pont-Bochet;zone de sport;Salle de gymnastique;salle;1;intérieur
+1086;THONEX;Centre Sportif Sous-Moulin;centre sportif;Patinoire de Sous-Moulin;patinoire;1;intérieur
+1087;THONEX;Centre Sportif Sous-Moulin;centre sportif;Halle de curling;patinoire;1;intérieur
+1088;THONEX;Centre Sportif Sous-Moulin;centre sportif;Salle de danse (grande);salle;1;intérieur
+1089;THONEX;Centre Sportif Sous-Moulin;centre sportif;Courts de tennis;court;5;extérieur
+1090;THONEX;Centre Sportif Sous-Moulin;centre sportif;Terrain de football D;terrain;1;extérieur
+1091;THONEX;Centre Sportif Sous-Moulin;centre sportif;Terrain de football A;terrain;1;extérieur
+1092;THONEX;Centre Sportif Sous-Moulin;centre sportif;Terrain de football en sable;terrain;1;extérieur
+1093;THONEX;Centre Sportif Sous-Moulin;centre sportif;Terrain de football B;terrain;1;extérieur
+1094;THONEX;Centre Sportif Sous-Moulin;centre sportif;Terrain de football C;terrain;1;extérieur
+1095;THONEX;Centre Sportif Sous-Moulin;centre sportif;Salles de danse (petites);salle;2;intérieur
+1096;THONEX;Centre Sportif Sous-Moulin;centre sportif;Terrains de beach-volley;terrain;2;extérieur
+1097;THONEX;Centre Sportif Sous-Moulin;centre sportif;Terrain de basket;terrain;1;extérieur
+1098;THONEX;Centre Sportif Sous-Moulin;centre sportif;Boulodrome;terrain;6;extérieur
+1099;THONEX;Centre Sportif Sous-Moulin;centre sportif;Fitness urbain;terrain;1;extérieur
+1100;THONEX;Centre Sportif Sous-Moulin;centre sportif;Salle omnisport;salle;1;intérieur
+1101;THONEX;Centre Sportif Sous-Moulin;centre sportif;Salle d'arts martiaux;salle;1;intérieur
+1102;THONEX;Centre Sportif Sous-Moulin;centre sportif;Salle de musculation;salle;1;intérieur
+1103;THONEX;Centre Sportif Sous-Moulin;centre sportif;Installations d'athlétisme;stade;1;extérieur
+1104;THONEX;Boulodrome;terrain;Terrain de pétanque;terrain;4;intérieur
+1105;THONEX;Boulodrome;terrain;Terrain de pétanque;terrain;10;extérieur
+1106;THONEX;Ecole du Bois-Des-Arts;zone de sport;Salle de gymnastique;salle;1;intérieur
+1107;THONEX;Ecole du Bois-Des-Arts;zone de sport;Salle de rythmique;salle;1;intérieur
+1108;TROINEX;Ecole de Troinex;zone de sport;Salle de gymnastique (communale);salle;1;intérieur
+1109;TROINEX;Ecole de Troinex;zone de sport;Terrain de football;terrain;1;extérieur
+1110;TROINEX;Ecole de Troinex;zone de sport;Terrain de basketball;terrain;1;extérieur
+1111;TROINEX;TC Troinex;court;Court de tennis;terrain;1;extérieur
+1112;TROINEX;TC Troinex;court;Courts de tennis;court;3;extérieur
+1113;TROINEX;TC Troinex;court;Terrains de pétanque;terrain;2;extérieur
+1114;TROINEX;Zone sportive du chemin Dottrens;zone de sport;Piste de bicross;terrain;1;extérieur
+1115;TROINEX;Zone sportive du chemin Dottrens;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+1116;TROINEX;Zone sportive du chemin Dottrens;zone de sport;Terrain de volley-ball;terrain;1;extérieur
+1117;TROINEX;Zone sportive du chemin Dottrens;zone de sport;Terrain de pétanque;terrain;1;extérieur
+1118;TROINEX;Terrain d'atterrissage deltaplane / parapente;terrain;Terrain d'atterrissage;terrain;1;extérieur
+1119;TROINEX;Salle des fêtes et de sport;salle;Salle de sport;salle;2;intérieur
+1120;VANDOEUVRES;Manège de Crête;Manège;Manège;Manège;1;extérieur et intérieur
+1121;VANDOEUVRES;Manège de Vandoeuvres;Manège;Manège;Manège;1;extérieur et intérieur
+1122;VANDOEUVRES;Centre communal de Vandoeuvres;zone de sport;Salle de gymnastique;salle;1;intérieur
+1123;VANDOEUVRES;Centre communal de Vandoeuvres;zone de sport;Terrains de pétanque;terrain;2;extérieur
+1124;VANDOEUVRES;Centre communal de Vandoeuvres;zone de sport;Courts de tennis;court;2;extérieur
+1125;VANDOEUVRES;Centre communal de Vandoeuvres;zone de sport;Terrain polyvalent;terrain;1;extérieur
+1126;VANDOEUVRES;Centre communal de Vandoeuvres;zone de sport;Installation d'athlétisme;terrain;1;extérieur
+1127;VANDOEUVRES;Centre communal de Vandoeuvres;zone de sport;Tables de ping pong;terrain;2;extérieur
+1128;VANDOEUVRES;Golf-Club de Genève;club;Golf;terrain;1;extérieur
+1129;VANDOEUVRES;Ecole de Vandoeuvres;salle;Salle de rythmique;salle;1;intérieur
+1130;VERNIER;Ecole Avanchet-Jura;zone de sport;Piscine;piscine;1;intérieur
+1131;VERNIER;Ecole Avanchet-Jura;zone de sport;Salle de gymnastique;salle;1;intérieur
+1132;VERNIER;Ecole Avanchet-Jura;zone de sport;Salle d'armes;salle;1;intérieur
+1133;VERNIER;Ecole Avanchet-Jura;zone de sport;Salle de rythmique;salle;1;intérieur
+1134;VERNIER;Ecole Avanchet-Jura;zone de sport;Terrain de basketball;terrain;1;extérieur
+1135;VERNIER;Ecole Avanchet-Jura;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+1136;VERNIER;Ecole des Libellules;zone de sport;Salle de gymnastique;salle;1;intérieur
+1137;VERNIER;Ecole des Libellules;zone de sport;Salle de rythmique;salle;1;intérieur
+1138;VERNIER;Ecole des Libellules;zone de sport;Terrain de basketball;terrain;1;extérieur
+1139;VERNIER;Ecole des Libellules;zone de sport;Terrain de football;terrain;1;extérieur
+1140;VERNIER;CO du Renard;zone de sport;Salles de gymnastique;salle;3;intérieur
+1141;VERNIER;CO du Renard;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+1142;VERNIER;CO du Renard;zone de sport;Terrain de basketball;terrain;1;extérieur
+1143;VERNIER;TC Vernier;court;Courts de tennis;court;3;intérieur
+1144;VERNIER;TC Vernier;court;Courts de tennis;court;3;extérieur
+1145;VERNIER;TC Vernier;court;Court de tennis;court;1;extérieur
+1146;VERNIER;TC Vernier;court;Courts de tennis;court;2;intérieur
+1147;VERNIER;TC Vernier;court;Terrains de badminton;court;6;intérieur
+1148;VERNIER;TC Vernier;court;Terrain de padel;terrain;1;extérieur
+1149;VERNIER;Stade de Vernier;stade;Boulodrome de Vernier;terrain;14;extérieur
+1150;VERNIER;Stade de Vernier;stade;Terrain de football Vernier A;terrain;1;extérieur
+1151;VERNIER;Stade de Vernier;stade;Terrain de football Vernier B;terrain;1;extérieur
+1152;VERNIER;Stade de Vernier;stade;Terrain de football Vernier C;terrain;1;extérieur
+1153;VERNIER;Stade de Vernier;stade;Terrains de football;terrain;2;extérieur
+1154;VERNIER;Stade de Balexert;stade;Terrains de football;terrain;2;extérieur
+1155;VERNIER;Stade de Balexert;stade;Terrain de football;terrain;1;extérieur
+1156;VERNIER;Stade de Balexert;stade;Terrain de football;terrain;1;extérieur
+1157;VERNIER;Ecole de Vernier-Place;zone de sport;Salle de gymnastique;salle;1;intérieur
+1158;VERNIER;Ecole de Vernier-Place;zone de sport;Terrain de basketball;terrain;1;extérieur
+1159;VERNIER;Ecole de Vernier-Place;zone de sport;Terrain de football;terrain;1;extérieur
+1160;VERNIER;Ecole de Vernier-Place;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+1161;VERNIER;Terrains de football d'Aïre;terrain;Terrain de football A;terrain;1;extérieur
+1162;VERNIER;Terrains de football d'Aïre;terrain;Terrain de football B;terrain;1;extérieur
+1163;VERNIER;Terrains de football d'Aïre;terrain;Terrain synthétique;terrain;1;extérieur
+1164;VERNIER;Tennis et Badminton d'Aïre;court;Courts de tennis;court;4;extérieur
+1165;VERNIER;Tennis et Badminton d'Aïre;court;Court de tennis;court;1;intérieur
+1166;VERNIER;Tennis et Badminton d'Aïre;court;Terrains de badminton;court;5;intérieur
+1167;VERNIER;Ecole Avanchets-Salève;zone de sport;Salle polyvalente;salle;1;intérieur
+1168;VERNIER;Ecole Avanchets-Salève;zone de sport;Salle de rythmique;salle;1;intérieur
+1169;VERNIER;Ecole Avanchets-Salève;zone de sport;Terrain de basketball;terrain;1;extérieur
+1170;VERNIER;Boulodrome du Lignon;salle;Boulodrome;salle;2;intérieur
+1171;VERNIER;Boulodrome du Lignon;salle;Boulodrome extérieur;terrain;2;extérieur
+1172;PERLY-CERTOUX;Stade de Perly;terrain;Terrain multisports clôturé;terrain;1;extérieur
+1173;PERLY-CERTOUX;Stade de Perly;terrain;Terrain de football 1;terrain;1;extérieur
+1174;PERLY-CERTOUX;Stade de Perly;terrain;Terrain de football 2;terrain;1;extérieur
+1175;PERLY-CERTOUX;Stade de Perly;terrain;Terrain de football 3 (juniors);terrain;1;extérieur
+1176;PLAN-LES-OUATES;Ecole du Pré-du-Camp;zone de sport;Piscine;piscine;1;intérieur
+1177;PLAN-LES-OUATES;Ecole du Pré-du-Camp;zone de sport;Salle de gymnastique;salle;1;intérieur
+1178;PLAN-LES-OUATES;Ecole du Pré-du-Camp;zone de sport;Salle de rythmique;salle;1;intérieur
+1179;PLAN-LES-OUATES;Ecole du Pré-du-Camp;zone de sport;Terrain de basket;terrain;1;extérieur
+1180;PLAN-LES-OUATES;Ecole du Pré-du-Camp;zone de sport;Tables de ping pong;terrain;2;extérieur
+1181;PLAN-LES-OUATES;Ecole Champ-Joly;zone de sport;Salle de gymnastique;salle;1;intérieur
+1182;PLAN-LES-OUATES;Ecole Champ-Joly;zone de sport;Dojo;salle;1;intérieur
+1183;PLAN-LES-OUATES;Ecole Champ-Joly;zone de sport;Salle de rythmique;salle;2;intérieur
+1184;PLAN-LES-OUATES;Ecole Champ-Joly;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+1185;PLAN-LES-OUATES;EC Aimée-Stitelmann;salle;Salle omnisports;salle;1;intérieur
+1186;PLAN-LES-OUATES;EC Aimée-Stitelmann;salle;Terrains de basketball;terrain;2;extérieur
+1187;PLAN-LES-OUATES;EC Aimée-Stitelmann;salle;Installations d'athlétisme;terrain;1;extérieur
+1188;PLAN-LES-OUATES;EC Aimée-Stitelmann;salle;Tables de ping pong;terrain;2;extérieur
+1189;PLAN-LES-OUATES;EC Aimée-Stitelmann;salle;Terrain de volleyball;terrain;1;extérieur
+1190;PLAN-LES-OUATES;EC Aimée-Stitelmann;salle;Salle d'escalade;salle;1;intérieur
+1191;PLAN-LES-OUATES;Ecole Le-Sapay;zone de sport;Salles de rythmique;salle;2;intérieur
+1192;PLAN-LES-OUATES;Ecole Le-Sapay;zone de sport;Mini terrain de foot;terrain;1;extérieur
+1193;PLAN-LES-OUATES;Disc-golf de la Butte;zone de sport;Parcours de disc-golf;terrain;1;extérieur
+1194;PLAN-LES-OUATES;CO des Voirets;zone de sport;Salle de gymnastique;salle;3;intérieur
+1195;PLAN-LES-OUATES;CO des Voirets;zone de sport;Terrains de sport extérieurs;terrain;1;extérieur
+1196;PLAN-LES-OUATES;CO des Voirets;zone de sport;Tables de ping pong;terrain;3;extérieur
+1197;PLAN-LES-OUATES;TC Amazônia;court;Mini court;court;1;extérieur
+1198;PLAN-LES-OUATES;TC Amazônia;court;Courts de tennis;court;3;extérieur
+1199;PLAN-LES-OUATES;TC Plan-les-Ouates;court;Courts de tennis;court;2;extérieur
+1200;PLAN-LES-OUATES;TC Plan-les-Ouates;court;Court de tennis;court;1;intérieur
+1201;PLAN-LES-OUATES;TC Plan-les-Ouates;court;Mur d'entraînement;court;1;extérieur
+1202;PLAN-LES-OUATES;TC Plan-les-Ouates;court;Courts de tennis;court;2;extérieur
+1203;PLAN-LES-OUATES;Terrain Rouge;terrain;Patinoire saisonnière;patinoire;1;extérieur
+1204;PLAN-LES-OUATES;Terrain Rouge;terrain;Terrain de football;terrain;1;extérieur
+1205;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de football A;terrain;1;extérieur
+1206;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de football D;terrain;1;extérieur
+1207;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de football E (juniors);terrain;1;extérieur
+1208;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de football F;terrain;1;extérieur
+1209;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Skatepark;terrain;1;extérieur
+1210;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de Rugby;terrain;1;extérieur
+1211;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Dojo;salle;1;intérieur
+1212;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de volleyball;terrain;1;extérieur
+1213;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de football C;terrain;1;extérieur
+1214;PLAN-LES-OUATES;Centre sportif des Cherpines;centre sportif;Terrain de football B;terrain;1;extérieur
+1215;PLAN-LES-OUATES;Boulodrome de Plan-les-Ouates;terrain;Terrains de pétanque;terrain;8;intérieur
+1216;PLAN-LES-OUATES;Centre équestre de Plan-les-Ouates;Manège;Centre équestre;Manège;1;extérieur
+1217;PREGNY-CHAMBESY;Port et plage du Vengeron;port et plage;Port du Vengeron;aquatique;1;extérieur
+1218;PREGNY-CHAMBESY;Port et plage du Vengeron;port et plage;Ratelier à planches à voile;aquatique;1;extérieur
+1219;PREGNY-CHAMBESY;Port et plage du Vengeron;port et plage;Plage du Vengeron;aquatique;1;extérieur
+1220;PREGNY-CHAMBESY;Port et plage du Vengeron;port et plage;Boulodrome;terrain;4;extérieur
+1221;PREGNY-CHAMBESY;Centre sportif des Châtaigners;centre sportif;Piscine;piscine;1;extérieur
+1222;PREGNY-CHAMBESY;Centre sportif des Châtaigners;centre sportif;Boulodrome;terrain;2;extérieur
+1223;PREGNY-CHAMBESY;Centre sportif des Châtaigners;centre sportif;Tables de ping pong;terrain;2;extérieur
+1224;PREGNY-CHAMBESY;Centre sportif des Châtaigners;centre sportif;Courts de tennis;court;2;intérieur
+1225;PREGNY-CHAMBESY;Centre sportif des Châtaigners;centre sportif;Courts de tennis;court;2;extérieur
+1226;PREGNY-CHAMBESY;Plage de Chambésy;port et plage;Plage communale;aquatique;1;extérieur
+1227;PREGNY-CHAMBESY;Salle de gymnastique et terrains de sport de Preg*;salle;Salle de gymnastique;salle;1;intérieur
+1228;PREGNY-CHAMBESY;Salle de gymnastique et terrains de sport de Preg*;salle;Terrain de football;terrain;1;extérieur
+1229;PREGNY-CHAMBESY;Salle de gymnastique et terrains de sport de Preg*;salle;Terrain de basketball;terrain;1;extérieur
+1230;PREGNY-CHAMBESY;Salle de gymnastique et terrains de sport de Preg*;salle;Installation d'athlétisme;terrain;1;extérieur
+1231;PREGNY-CHAMBESY;Salle de gymnastique et terrains de sport de Preg*;salle;Salle de judo;salle;1;intérieur
+1232;PREGNY-CHAMBESY;Ecole Pregny-Valérie;salle;Terrain de basketball;terrain;1;extérieur
+1233;PREGNY-CHAMBESY;Ecole Pregny-Valérie;salle;Mini terrain de foot;terrain;1;extérieur
+1234;PREGNY-CHAMBESY;Ecole Pregny-Valérie;salle;Salle de gymnastique;salle;1;intérieur
+1235;PREGNY-CHAMBESY;Geneva Squash-Club;court;Courts de squash;court;5;intérieur
+1236;PREGNY-CHAMBESY;Port et Plage du Reposoir;port et plage;Plage du Reposoir;aquatique;1;extérieur
+1237;PREGNY-CHAMBESY;Port et Plage du Reposoir;port et plage;Port du Reposoir;aquatique;1;extérieur
+1238;PRESINGE;Salle communale de Presinge;salle;Salle de gymnastique;salle;1;intérieur
+1239;PRESINGE;TC Presinge;court;Courts de tennis;court;2;extérieur
+1240;PRESINGE;Poney club;Manège;Poney Club;Manège;1;extérieur et intérieur
+1241;PRESINGE;Ecole de Presinge;zone de sport;Terrain de basket;terrain;1;extérieur
+1242;PUPLINGE;Ecole de Puplinge;zone de sport;Salle de gymnastique;salle;1;intérieur
+1243;PUPLINGE;Ecole de Puplinge;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+1244;PUPLINGE;Ecole de Puplinge;zone de sport;Salle de rythmique;salle;1;intérieur
+1245;PUPLINGE;Terrains de football;terrain;Terrain de football 1;terrain;1;extérieur
+1246;PUPLINGE;Terrains de football;terrain;Terrain de football 2;terrain;1;extérieur
+1247;PUPLINGE;Salle communale;salle;Salle communale;salle;1;intérieur
+1248;RUSSIN;Centre hippique de la Chaumaz;Manège;Manège;Manège;1;extérieur et intérieur
+1249;RUSSIN;Ecole de Russin;salle;Salle de gymnastique;salle;1;intérieur
+1250;SATIGNY;Complexe communal;zone de sport;Piscine de Satigny;piscine;1;intérieur
+1251;SATIGNY;Complexe communal;zone de sport;Mur d'escalade;salle;1;intérieur
+1252;SATIGNY;Complexe communal;zone de sport;Salle omnisports;salle;1;intérieur
+1253;SATIGNY;Complexe communal;zone de sport;Salle de rythmique;salle;1;intérieur
+1254;SATIGNY;Centre sportif de Satigny;centre sportif;Skatepark;terrain;1;extérieur
+1255;SATIGNY;Centre sportif de Satigny;centre sportif;Table de ping-pong;terrain;1;extérieur
+1256;SATIGNY;Centre sportif de Satigny;centre sportif;Boulodrome;terrain;2;extérieur
+1257;SATIGNY;Centre sportif de Satigny;centre sportif;Terrain de football Satigny Inférieur;terrain;1;extérieur
+1258;VERNIER;Ecole des Ranches;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+1259;VERNIER;Bowling de Meyrin;salle;Piste de bowling;salle;12;intérieur
+1260;VERNIER;Ecole d'Aïre;zone de sport;Salle de gymnastique;salle;1;intérieur
+1261;VERNIER;Ecole d'Aïre;zone de sport;Salle de rythmique;salle;1;intérieur
+1262;VERNIER;Ecole d'Aïre;zone de sport;Terrain de basketball;terrain;1;extérieur
+1263;VERNIER;Centre sportif du Bois des Frères;centre sportif;Terrain de football du Bois des Frères D;terrain;1;extérieur
+1264;VERNIER;Centre sportif du Bois des Frères;centre sportif;Terrain de football des Libellules A;terrain;1;extérieur
+1265;VERNIER;Centre sportif du Bois des Frères;centre sportif;Terrain de football des Libellules B;terrain;1;extérieur
+1266;VERNIER;Centre sportif du Bois des Frères;centre sportif;Courts de tennis;court;6;extérieur
+1267;VERNIER;Centre sportif du Bois des Frères;centre sportif;Installation d'athlétisme;terrain;1;extérieur
+1268;VERNIER;Centre sportif du Bois des Frères;centre sportif;Terrain de basketball;terrain;1;extérieur
+1269;VERNIER;Centre sportif du Bois des Frères;centre sportif;Salle de musculation;salle;1;intérieur
+1270;VERNIER;Centre sportif du Bois des Frères;centre sportif;Stand de tir à l'arc;stand;1;couvert
+1271;VERNIER;Centre sportif du Bois des Frères;centre sportif;Stand de tir à air comprimé;stand;1;intérieur
+1272;VERNIER;Centre sportif du Bois des Frères;centre sportif;Salle de lutte;salle;1;intérieur
+1273;VERNIER;Centre sportif du Bois des Frères;centre sportif;Salle omnisports;salle;1;intérieur
+1274;VERNIER;Centre sportif du Bois des Frères;centre sportif;Terrain de football du Bois des Frères C;terrain;1;extérieur
+1275;VERNIER;Ecole du Lignon;salle;Salle des fêtes;salle;1;intérieur
+1276;VERNIER;Ecole du Lignon;salle;Salle de boxe;salle;1;intérieur
+1277;VERNIER;Ecole du Lignon;salle;Salle de gymnastique;salle;1;intérieur
+1278;VERNIER;Ecole du Lignon;salle;Salle d'haltérophilie;salle;1;intérieur
+1279;VERNIER;Ecole du Lignon;salle;Salle de judo;salle;1;intérieur
+1280;VERNIER;Ecole du Lignon;salle;Salle de musculation;salle;1;intérieur
+1281;VERNIER;Ecole du Lignon;salle;Terrain de basketball;terrain;1;extérieur
+1282;VERNIER;Ecole du Lignon;salle;Terrain de basketball;terrain;1;extérieur
+1283;VERNIER;Ecole du Lignon;salle;Terrain de football;terrain;1;extérieur
+1284;VERNIER;Ecole du Lignon;salle;Salle de rythmique;salle;2;intérieur
+1285;VERNIER;Ecole de Balexert;zone de sport;Salle de gymnastique;salle;1;intérieur
+1286;VERNIER;Ecole de Balexert;zone de sport;Boulodrome;terrain;4;couvert
+1287;VERNIER;Ecole de Balexert;zone de sport;Boulodrome;terrain;4;extérieur
+1288;VERNIER;Ecole de Balexert;zone de sport;Terrain de football;terrain;1;extérieur
+1289;VERNIER;Ecole de Balexert;zone de sport;Terrain de basketball;terrain;1;extérieur
+1290;VERNIER;Ecole de Balexert;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+1291;VERNIER;Ecole de Châtelaine;zone de sport;Salle de gymnastique;salle;1;intérieur
+1292;VERNIER;Ecole de Châtelaine;zone de sport;Salle de rythmique;salle;1;intérieur
+1293;VERSOIX;Ecole de dressage SA;Manège;Ecole de dressage SA;Manège;1;extérieur et intérieur
+1294;VERSOIX;Stade Municipal Louis-Yung;stade;Terrain de football;terrain;1;extérieur
+1295;VERSOIX;Piste Vita;parcours sportif;"Piste Vita ""Zürich Vita Parcours""";promenades;1;extérieur
+1296;VERSOIX;Ecole Ami-Argand;zone de sport;Salle de ping-pong;salle;1;intérieur
+1297;VERSOIX;Ecole Ami-Argand;zone de sport;Salle de danse;salle;1;intérieur
+1298;VERSOIX;Ecole Ami-Argand;zone de sport;Dojo;salle;1;intérieur
+1299;VERSOIX;Ecole Ami-Argand;zone de sport;Salle de gymnastique;salle;1;intérieur
+1300;VERSOIX;Ecole Ami-Argand;zone de sport;Salle de rythmique;salle;1;intérieur
+1301;VERSOIX;Port de Versoix-Bourg;port;Port;aquatique;1;extérieur
+1302;VERSOIX;Ecurie de Richelien;Manège;Club équestre de Richelien;Manège;1;extérieur
+1303;VERSOIX;Terrain multisports clôturé des Fayards;terrain;Agorespace des Fayards;terrain;1;extérieur
+1304;VERSOIX;Plage de la Bécassine;plage;Plage;aquatique;1;extérieur
+1305;VERSOIX;Versoix Model-Club;terrain;Terrain modélisme;terrain;1;extérieur
+1306;VERSOIX;Boxing Club Versoix;salle;Salle de boye;salle;1;intérieur
+1307;VERSOIX;Port Choiseul;port et plage;Port;aquatique;1;extérieur
+1308;VERSOIX;Port Choiseul;port et plage;Plage;aquatique;1;extérieur
+1309;VERSOIX;Port Choiseul;port et plage;Boulodrome;terrain;2;extérieur
+1310;VERSOIX;Port Choiseul;port et plage;Terrain de beach-volley;terrain;1;extérieur
+1311;VERSOIX;Port Choiseul;port et plage;Mini-terrain de football;terrain;1;extérieur
+1312;VERSOIX;Place du Bourg;zone de sport;Patinoire;patinoire;1;extérieur
+1313;VERSOIX;Place du Bourg;zone de sport;Boulodrome;salle;2;extérieur
+1314;VERSOIX;Centre sportif de la Bécassière;centre sportif;Piscine publique de Versoix;piscine;1;extérieur
+1315;VERSOIX;Centre sportif de la Bécassière;centre sportif;Parcours Helsana;promenades;1;extérieur
+1316;VERSOIX;Centre sportif de la Bécassière;centre sportif;Piste Finlandaise;promenades;1;extérieur
+1317;VERSOIX;Centre sportif de la Bécassière;centre sportif;Boulodrome;terrain;4;extérieur
+1318;VERSOIX;Centre sportif de la Bécassière;centre sportif;Terrain de basketball;terrain;3;extérieur
+1319;VERSOIX;Centre sportif de la Bécassière;centre sportif;Installations d'athlétisme;terrain;1;extérieur
+1320;VERSOIX;Centre sportif de la Bécassière;centre sportif;Aire de fitness;terrain;1;extérieur
+1321;VERSOIX;Centre sportif de la Bécassière;centre sportif;Salle de tir;salle;2;intérieur
+1322;VERSOIX;Centre sportif de la Bécassière;centre sportif;Courts de tennis (TC Versoix);court;3;intérieur
+1323;VERSOIX;Centre sportif de la Bécassière;centre sportif;Terrain de football (Anneau athlétisme);terrain;1;extérieur
+1324;VERSOIX;Centre sportif de la Bécassière;centre sportif;Courts de tennis (TC Versoix);court;3;extérieur
+1325;VERSOIX;Centre sportif de la Bécassière;centre sportif;Terrain de football Versoix A-C;terrain;2;extérieur
+1326;VERSOIX;Centre sportif de la Bécassière;centre sportif;Terrain de football Versoix B;terrain;1;extérieur
+1327;VERSOIX;Ecole Bon-Séjour;zone de sport;Terrain de basketball;terrain;1;extérieur
+1328;VERSOIX;Ecole Bon-Séjour;zone de sport;Salle de danse;salle;1;intérieur
+1329;VERSOIX;Ecole Bon-Séjour;zone de sport;Salle de gymnastique;salle;1;intérieur
+1330;VERSOIX;CO des Colombières;zone de sport;Salle de gymnastique;salle;3;intérieur
+1331;VERSOIX;CO des Colombières;zone de sport;Terrain de basketball;terrain;3;extérieur
+1332;VERSOIX;CO des Colombières;zone de sport;Installations d'athlétisme;terrain;1;extérieur
+1333;VERSOIX;Ecole Lachenal;zone de sport;Salle de gymnastique;salle;1;intérieur
+1334;VERSOIX;Ecole Lachenal;zone de sport;Terrain de basketball;terrain;1;extérieur
+1335;VERSOIX;Ecole Lachenal;zone de sport;Salle de rythmique;salle;1;intérieur
+1336;VERSOIX;Ecole de Montfleury;zone de sport;Salle de gymnastique;salle;1;intérieur
+1337;VERSOIX;Stand de tir de Versoix;stand;Stand de tir à feu;stand;1;extérieur
+1338;VEYRIER;Ecole de Grand Salève;zone de sport;Salle de gymnastique (grande);salle;1;intérieur
+1339;VEYRIER;Ecole de Grand Salève;zone de sport;Salle de gymnastique (petite);salle;1;intérieur
+1340;VEYRIER;Ecole de Grand Salève;zone de sport;Terrain de football;terrain;1;extérieur
+1341;VEYRIER;Ecole de Grand Salève;zone de sport;Terrain de basketball;terrain;1;extérieur
+1342;VEYRIER;Ecole de Grand Salève;zone de sport;Salle de rythmique;salle;1;intérieur
+1343;VEYRIER;Ecole de Grand Salève;zone de sport;Terrain de football;terrain;1;extérieur
+1344;VEYRIER;Ecole de Grand Salève;zone de sport;Salle de rythmique;salle;1;intérieur
+1345;VEYRIER;Ecole de Grand Salève;zone de sport;Dojo;salle;1;intérieur
+1346;VEYRIER;Salle de tennis de table;salle;Salle de tennis de table;salle;2;intérieur
+1347;VEYRIER;Stand de tir de Veyrier;stand;Stand de tir à feu;stand;1;extérieur
+1348;VEYRIER;Stand de tir à l'arc;stand;Stand de tir à l'arc;stand;1;extérieur
+1349;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Parcours Vital Santé;promenades;1;extérieur
+1350;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Courts de tennis;court;8;extérieur
+1351;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Terrain de beach-volley;terrain;1;extérieur
+1352;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Skate park;terrain;1;extérieur
+1353;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Boulodrome;terrain;4;extérieur
+1354;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Courts de tennis;court;2;extérieur
+1355;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Terrain de football Grand Donzel 2;terrain;1;extérieur
+1356;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Terrain de football Grand Donzel 1;terrain;1;extérieur
+1357;VEYRIER;Centre sportif du Grand-Donzel;centre sportif;Tables de ping-pong;terrain;2;extérieur
+1358;VEYRIER;Centre sportif de Vessy;centre sportif;Piste de cross;promenades;1;extérieur
+1359;VEYRIER;Centre sportif de Vessy;centre sportif;Piste de cross;promenades;1;extérieur
+1360;VEYRIER;Centre sportif de Vessy;centre sportif;Courts de tennis;court;10;extérieur
+1361;VEYRIER;Centre sportif de Vessy;centre sportif;Terrain de rugby;terrain;1;extérieur
+1362;VEYRIER;Centre sportif de Vessy;centre sportif;Terrain de football Vessy A et H;terrain;2;extérieur
+1363;VEYRIER;Centre sportif de Vessy;centre sportif;Zone polyvalente;terrain;1;extérieur
+1364;VEYRIER;Centre sportif de Vessy;centre sportif;Terrain de beach-volley;terrain;4;extérieur
+1365;VEYRIER;Centre sportif de Vessy;centre sportif;Terrains de football Vessy B-C-D-E;terrain;4;extérieur
+1366;VEYRIER;Centre sportif de Vessy;centre sportif;Terrain de baseball;terrain;1;extérieur
+1367;VEYRIER;TC Genève-Champel;court;Courts de tennis;court;3;extérieur
+1368;VEYRIER;TC Genève-Champel;court;Courts de tennis;court;5;intérieur
+1369;VEYRIER;TC Genève-Champel;court;Courts de tennis;court;3;extérieur et intérieur
+1370;VEYRIER;Ecole de Pinchat;zone de sport;Salle de gymnastique;salle;1;intérieur
+1371;VEYRIER;Ecole de Pinchat;zone de sport;Terrain de football;terrain;1;extérieur
+1372;VEYRIER;Ecole de Pinchat;zone de sport;Terrain multisports clôturé;terrain;1;extérieur
+1373;VEYRIER;Ecole de Pinchat;zone de sport;Tables de ping-pong;terrain;2;extérieur
+1374;VEYRIER;Ecole de Pinchat;zone de sport;Salle de rythmique;salle;1;intérieur
+1375;VEYRIER;Ecole de Pinchat;zone de sport;Salle de rythmique;salle;1;intérieur
+1376;VEYRIER;Ecole de Bois-Gourmand;zone de sport;Salle omnisports;salle;1;intérieur
+1377;VEYRIER;Ecole de Bois-Gourmand;zone de sport;Terrain de basketball;terrain;1;extérieur
+1378;VEYRIER;Ecole de Bois-Gourmand;zone de sport;Terrain de football;terrain;1;extérieur
+1379;VEYRIER;Ecole de Bois-Gourmand;zone de sport;Table de ping-pong;terrain;2;extérieur
+1380;VEYRIER;Ecole de Bois-Gourmand;zone de sport;Salle de rythmique;salle;1;intérieur
+1381;CHOULEX;Zone multisport de Chambet;terrain;Boulodrome extérieur;terrain;6;extérieur
+1382;CHOULEX;Zone multisport de Chambet;terrain;Terrain multisport;terrain;1;extérieur
